@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hemis-color{
+    background: #ecf0f5;
+}
+input {
+    caret-color: transparent; /* Kursorni yashiradi */
+  }
+body{
+    border-top: 3px solid #d2d6de;
+}
+/* Faqat skroll belgisini yashirish */
+html,body {
+    overflow: hidden; /* Skroll qilish imkoniyatini saqlab qoladi */
+  }
+  
+  /* Skroll belgisini yashirish */
+  body::-webkit-scrollbar {
+    display: none !important; /* Skroll belgisini yashiradi */
+  }
+  
+  /* Mozilla Firefox uchun */
+  body {
+    scrollbar-width: none; /* Skroll belgisini yashiradi */
+  }
+  
+  /* Internet Explorer va eski brauzerlar uchun */
+  body {
+    -ms-overflow-style: none; /* Skroll belgisini yashiradi */
+  }
+  

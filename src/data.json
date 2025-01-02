@@ -1,0 +1,34 @@
+[
+  {
+    "savol": "IPSec ulanishda ishtirok etuvchi qurilmalar o'rtasida IP-paketlarni himoyalash va autentifikatsiya qilish uchun protokollar stekining qaysi qatlamida ishlaydi?",
+    "javob": "Tarmoq sathida"
+  },
+  {
+    "savol": "DNS xizmatining maqsadi nima?",
+    "javob": "tizim nomlarini aniqlash va ularni IP manzillarga aylantirish"
+  },
+  {
+    "savol": "WWW xizmatlaridan foydalanishning asosiy protokoli:",
+    "javob": "HTTP"
+  },
+  {
+    "savol": "Ochiq tizimlarning o'zaro ta'sirining 7 sathli modeli nomini ko'rsating",
+    "javob": "OSI"
+  },
+  {
+    "savol": "Fayl arxivlarini o'z ichiga olgan Internet-serverlar sizga quyidagilarga imkon beradi:",
+    "javob": "kerakli fayllarni yuklab olish"
+  },
+  {
+    "savol": "Fayl uzatish protokoli ko'rsatilgan qatorni ko'rsating",
+    "javob": "FTP"
+  },
+  {
+    "savol": "Internetdagi elektron pochta manzili belgilangan: user_name@tuit.uz. Yuqori darajadagi domen nomini toping?",
+    "javob": ".uz"
+  },
+  {
+    "savol": "Lokal tarmoqdagi kompyuterlarni ulash uchun asosan qanday kabel ishlatiladi?",
+    "javob": "O'ralgan juftlik (utp)"
+  }
+]
