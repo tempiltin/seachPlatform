@@ -1,0 +1,802 @@
+[
+    {
+        "savol": "\"Mobil ilova\" atamasi qanday ilovalarga nisbatan ishlatiladi?",
+        "javob": "Mobil platformalarda ishlovchi ilovalar"
+    },
+    {
+        "savol": "Emulyator qanday dastur?",
+        "javob": "Bir OT uchun yozilgan dasturni boshqa OT da ishlashini ta'minlovchi dastur"
+    },
+    {
+        "savol": "Play Store nima?",
+        "javob": "Android telefonlari uchun mo‘ljallangan mobil ilovalar do‘koni"
+    },
+    {
+        "savol": "App Store haqida to‘g‘ri ta’rifni belgilang?",
+        "javob": "iOS foydalanuvchilari uchun mobil ilovalar do‘koni"
+    },
+    {
+        "savol": "Androidga to‘g‘ri ta’rif berilgan qatorni belgilan",
+        "javob": "Linux yadrosida ko‘tarilgan mobil OT //Kernell"
+    },
+    {
+        "savol": "Quyidagilardan mobil dasturlash til va freymvorklarini belgilang",
+        "javob": "Kivy, Flutter, React Native"
+    },
+    {
+        "savol": "Flutter freymvorki qaysi dasturlash tiliga tegishli",
+        "javob": "Dart"
+    },
+    {
+        "savol": "Table (yoki DataTable) komponentasi nima uchun ishlatiladi?",
+        "javob": "Ma’lumotlarni jadval ko‘rinishida ekranga chiqarish uchun"
+    },
+    {
+        "savol": "Quyidagilardan faqat mobil OT lar ko‘rsatilgan qatorni belgilang",
+        "javob": "Android, iOS, Symbian, Windows mobile"
+    },
+    {
+        "savol": "Mobil ilovalar dizaynini ishlab chiqishda quyidagi grafik muharrirlarning qaysi biridan ko‘proq foydalaniladi?",
+        "javob": "Figma"
+    },
+    {
+        "savol": "Mobil ilovalar dizaynini ishlab chiqishda UX tushunchasi nimani ifodalaydi?",
+        "javob": "Foydalanuvchi tajribasi"
+    },
+    {
+        "savol": "Grafik interfeys bu",
+        "javob": "Foydalanuvchining grafik interfeysi"
+    },
+    {
+        "savol": "Kivy freymvorki qaysi dasturlash tiliga tegishli?",
+        "javob": "Python"
+    },
+    {
+        "savol": "Boshqa klassdan voris olish uchun (Dart, Java) qaysi kalitso‘z ishlatiladi?",
+        "javob": "extends"
+    },
+    {
+        "savol": "Galereya ko‘rinishi nima?",
+        "javob": "Ekranda rasmlarni (rasmlarni) navbati bilan ko‘rsatish uchun foydalaniladi"
+    },
+    {
+        "savol": "Android operatsion tizimi qaysi IT gigant tomonidan qo‘llab-quvvatlab kelinadi?",
+        "javob": "Google"
+    },
+    {
+        "savol": "Genymotion, BlueStacks qanday vazifani bajaruvchi dasturlar?",
+        "javob": "emulyator"
+    },
+    {
+        "savol": "SQLite qanday dastur hisoblanadi?",
+        "javob": "Ma’lumotlar bazasini boshqarish tizimi"
+    },
+    {
+        "savol": "Mobil operatsion tizimlar deganda nimani tushunasiz?",
+        "javob": "bu mobil qurilmalarni boshqarish uchun mo‘ljallangan tizimlar (smartfonlar, planshetlar, PDA va boshqa mobil qurilmalar)"
+    },
+    {
+        "savol": "Android Studioda yozilgan kodni natijasi (build) ni qanday ko‘rish mumkin?",
+        "javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+        "savol": "Sozlamalar bu – …",
+        "javob": "qurilma ma'lumotlarini sozlamalar va parametrlarda saqlash"
+    },
+    {
+        "savol": "Ma'lumotlar manzili (path) nima uchun ishlatiladi?",
+        "javob": "Chaqirilgan resursning local/global adresini ko‘rsatish uchun"
+    },
+    {
+        "savol": "Bir nechta variantni birgalikda tanlash maqsadida ishlatiladigan komponenta qaysi?",
+        "javob": "Checkbox"
+    },
+    {
+        "savol": "iOS platformasini qaysi kompaniya qo‘llab-quvvatlab, rivojlantirib boradi?",
+        "javob": "Apple"
+    },
+    {
+        "savol": "Quyidagi tillardan qaysi birida mobil ilovalar ishlab chiqish imkoni mavjud emas?",
+        "javob": "PHP"
+    },
+    {
+        "savol": "Android Studioda tayyor bo‘lgan kodni biron qurilmada ishga tushirish (build) uchun qaysi buyruq bosiladi?",
+        "javob": "Run (Shift + F10)"
+    },
+    {
+        "savol": "Microsoft kompaniyasining mobil qurilmalar uchun yaratgan mobil operatsion tizimi qaysi?",
+        "javob": "Windows Phone"
+    },
+    {
+        "savol": "Android Studioda yozilgan kodni qaysi brauzerlar orqali build qilib ko‘rish mumkin?",
+        "javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+        "savol": "Python dasturlash tilining Kivy freymvorkida qaysi qurilmalar uchun dastur yozish mumkin?",
+        "javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+        "savol": "APK formati qanday turdagi fayllarni saqlaydi?",
+        "javob": "Android dasturning build qilingan holati"
+    },
+    {
+        "savol": "Mobil dasturlashda Android ilovalar uchun asosan qaysi dizayn kutubxonasi ishlatiladi?",
+        "javob": "Material"
+    },
+    {
+        "savol": "Android Studioda quyidagi qaysi platformalar uchun dasturlar yozish mumkin?",
+        "javob": "Android va iOS, iOS uchun Flutter plaginini o‘rnatib yozish mumkin"
+    },
+    {
+        "savol": "Android Studioda iOS uchun ham dastur yozishga qanday talablar mavjud?",
+        "javob": "Flutter plaginini o‘rnatish kerak"
+    },
+    {
+        "savol": "Image (Imageview) komponentasi qay maqsadda ishlatiladi?",
+        "javob": "Rasmlarni joylashtirish uchun"
+    },
+    {
+        "savol": "Mobil ilovadagi element ustiga sichqoncha chap tugmasi bilan bosilganda qaysi metod ishga tushadi?",
+        "javob": "OnPressed()"
+    },
+    {
+        "savol": "Android dasturlari qaysi kengaytma bilan saqlanadi?",
+        "javob": ".apk"
+    },
+    {
+        "savol": "Sana bilan ishlovchi komponenta (Android Studio, Flutter) qanday nomlanadi?",
+        "javob": "DatePicker"
+    },
+    {
+        "savol": "Flutter freymvorki qaysi kompaniya tomonidan qo‘llab quvvatlanadi?",
+        "javob": "Google"
+    },
+    {
+        "savol": "Label vazifasini bajaruvchi komponentalar nomlari berilgan qatorni ko‘rsating?",
+        "javob": "Text, TextView"
+    },
+    {
+        "savol": "Mobil ilova (masalan, birorta .apk kengaytmali fayl) ni kompyuterda ishlatish imkonini beruvchi dasturlar qanday nomlanadi?",
+        "javob": "Emulyator"
+    },
+    {
+        "savol": "Android Studioda mavjud faylni ochish uchun qaysi buyruqdan foydalaniladi?",
+        "javob": "Open (Ctrl + O)"
+    },
+    {
+        "savol": "Dart tilining mobil dasturlash uchun mo‘ljallangan freymvorkini belgilang?",
+        "javob": "Flutter"
+    },
+    {
+        "savol": "Quyidagilardan qaysi biri mobil dasturlash freymvorki hisoblanadi?",
+        "javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+        "savol": "iOS uchun yozilgan kodni qanday qurilmada build qilish mumkin?",
+        "javob": "Faqatgina MacOS o‘rnatilgan qurilmada"
+    },
+    {
+        "savol": "Kodning dasturchi uchun tushunarli holatda, probel va tabulyatsiya belgilari bilan yozilgan holati qanday nomlanadi?",
+        "javob": "Human readable"
+    },
+    {
+        "savol": "Android Studioda kodni “Human readable” ko‘rinishga o‘tkazish uchun qaysi klavishlar birgalikda bosiladi?",
+        "javob": "Ctrl + Alt + L"
+    },
+    {
+        "savol": "Quyidagilardan qaysi dasturlash tilida mobil dasturlash uchun freymvork mavjud emas?",
+        "javob": "PHP"
+    },
+    {
+        "savol": "Qaysi mobil operatsion tizimda ishlaydigan qurilmalar eng ko‘p tarqalgan?",
+        "javob": "Android"
+    },
+    {
+        "savol": "Android operatsion tizimining keng tarqalishining asosiy sababini belgilang?",
+        "javob": "Open source va tekin tarqatilishi"
+    },
+    {
+        "savol": "Android haqida to‘g‘ri ta’rif berilgan qatorni belgilang?",
+        "javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+        "savol": "Android Studioda Flutter bilan ishlaganda Dart dasturlash tiliga doir maxsus sozlamalar qaysi katalogda saqlanadi?",
+        "javob": ".dart"
+    },
+    {
+        "savol": "Android Studioda qilinayotgan mobil ilova loyihasida Git sozlamalari qaysi faylda saqlanadi?",
+        "javob": ".gitignore"
+    },
+    {
+        "savol": "Android Studioda Flutter freymvorkida qilinayotgan mobil ilova loyihasida .metada faylida qanday ma’lumotlar saqlanadi?",
+        "javob": "Flutter yangilanishiga oid metama’lumotlar"
+    },
+    {
+        "savol": "Dastlab Andriod OT versiyalari qanday nomlangan?",
+        "javob": "Shirinliklar nomlari bilan"
+    },
+    {
+        "savol": "Android Studioda qilinayotgan mobil ilova loyihasida .gitignore faylida qanday ma’lumotlar saqlanadi?",
+        "javob": "Git bilan ishlash sozlamalari"
+    },
+    {
+        "savol": "Android Studioda qilinayotgan mobil ilova loyihasida kerakli paketlar haqidagi ma’lumotlar qaysi faylda saqlanadi?",
+        "javob": "packages"
+    },
+    {
+        "savol": "Android qaysi sabablarga ko‘ra Linuxga asoslanib yaratilgan?",
+        "javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+        "savol": "Android Studioda qilinayotgan mobil ilova loyihasida iOS katalogida qanday ma’lumotlar saqlanadi?",
+        "javob": "iOS ga oid kodlar"
+    },
+    {
+        "savol": "Android Studioda qilinayotgan mobil ilova loyihasida .packages faylida qanday ma’lumotlar saqlanadi?",
+        "javob": "Paketlar haqida qo‘shimcha ma’lumotlar"
+    },
+    {
+        "savol": "Android Studioda iOS spetsifikatsiyasiga doir maxsus sozlamalar qaysi katalogda saqlanadi?",
+        "javob": "Ios"
+    },
+    {
+        "savol": "Samarali mobil ilova ishlab chiqish uchun qaysi savollarga to‘g‘ri javob berish kerak?",
+        "javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+        "savol": "Android Studioda qilinayotgan mobil ilova loyihasida android katalogida qanday ma’lumotlar saqlanadi?",
+        "javob": "Android maxsus (native) kodlari"
+    },
+    {
+        "savol": "Android Studioda Flutterda dasturlash uchun qanday talablar mavjud?",
+        "javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+        "savol": "Android OT qaysi kompaniya tomonidan yaratilgan?",
+        "javob": "Android Ins"
+    },
+    {
+        "savol": "Android Studioda dastur kodini kompilyatsiya qilib, to‘g‘ridan to‘g‘ri telefonga o‘rnatish mumkinmi?",
+        "javob": "Mumkin, USB interfeys va ba’zi sozlamalar bilan"
+    },
+    {
+        "savol": "Android Studioda qilinayotgan mobil ilova loyihasida .idea katalogida qanday ma’lumotlar saqlanadi?",
+        "javob": "Muharrir dasturi (editor) sozlamalari"
+    },
+    {
+        "savol": "Mobil ilova yaratishda konsepsiyani ishlab chiqish qaysi jarayonlarni o‘z ichiga oladi?",
+        "javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+        "savol": "Javascript dasturlash tilining mobil dasturlashga mo‘ljallangan freymvorkini belgilang?",
+        "javob": "React Native"
+    },
+    {
+        "savol": "Bir nechta platformalar uchun birdaniga dastur yozish imkoniga ega dasturlash tillari … dasturlash tillari deyiladi.",
+        "javob": "Krossplatformali"
+    },
+    {
+        "savol": "Faqat emulyator dasturlar berilgan qatorni toping?",
+        "javob": "BlueStacks, Genymotion"
+    },
+    {
+        "savol": "Mobil dasturlashda faqatgina matn ko‘rinishidagi ma'lumotlarni ko‘rsatish uchun ishlatiladi va <........> elementi yordamida yaratiladi",
+        "javob": "TextView"
+    },
+    {
+        "savol": "CheckBox komponentasiga to‘g‘ri ta’rif berilgan qatorni belgilang",
+        "javob": "bu maxsus turdagi tugma va ikkita holatda bo‘lishi mumkin: checked yoki unchecked."
+    },
+    {
+        "savol": "Android Studioda virtual qurilmalar (telefon, planshet, …) ni yaratish, boshqarish imkonini beruvchi utilita qaysi?",
+        "javob": "AVD manager"
+    },
+    {
+        "savol": "Android Studioda sozlamalarga tezkor kirish uchun qaysi tugmachalar birgalikda bosiladi?",
+        "javob": "Ctrl + Alt + S"
+    },
+    {
+        "savol": "Mobil ilovalar dizaynini ishlab chiqishda UI tushunchasi nimani ifodalaydi?",
+        "javob": "Foydalanuvchi interfeysi"
+    },
+    {
+        "savol": "Ma’lumotlarni jadval ko‘rinishida aks ettirish uchun qaysi komponenta ishlatiladi?",
+        "javob": "Table, DataTable"
+    },
+    {
+        "savol": "Sinf yaratish qaysi kalit so‘z yordamida amalga oshiriladi?",
+        "javob": "class"
+    },
+    {
+        "savol": "Button ustiga sichqoncha bilan bosilganda qaysi metod ishga tushadi?",
+        "javob": "onPress (Pressed)"
+    },
+    {
+        "savol": "CheckBox belgilanganda qaysi atribut True qiymatga ega bo‘ladi?",
+        "javob": "Checked"
+    },
+    {
+        "savol": "Ob'ektning qiymati qaysi atribut orqali o‘rnatiladi?",
+        "javob": "Value"
+    },
+    {
+        "savol": "Mavjud variantlardan faqat bittasini belgilash uchun ishlatiladigan komponenta qaysi?",
+        "javob": "Radio/RadioButton"
+    },
+    {
+        "savol": "Android Studioda tayyor bo‘lgan faylni saqlash uchun qaysi buyruq bosiladi?",
+        "javob": "Save (Ctrl + S)"
+    },
+    {
+        "savol": "Android Studioda qilinayotgan mobil ilova loyihasida test katalogida qanday ma’lumotlar saqlanadi?",
+        "javob": "dasturni testlashga doir kodlar"
+    },
+    {
+        "savol": "Android Studiodagi Android Virtual Device qanday vazifani bajaradi?",
+        "javob": "Emulyator yoki telefonsiz dasturni ishlatib ko‘rish imkoniyatini beradi"
+    },
+    {
+        "savol": "Android Studioda sozlamalarga tezkor kirish uchun qaysi klavishlar birgalikda bosiladi?",
+        "javob": "Ctrl + Alt + S"
+    },
+    {
+        "savol": "Android Studioda android spetsifikatsiyasiga doir maxsus sozlamalar qaysi katalogda saqlanadi?",
+        "javob": "Android"
+    },
+    {
+        "savol": "“Hot reload” funksiyasi qanday vazifani bajaradi?",
+        "javob": "Ishlab turgan dasturga o‘zgarishlarni tezkor qo‘shish"
+    },
+    {
+        "savol": "SQLite haqida quyidagilardan qaysi biri to‘g‘ri?",
+        "javob": "Ma’lumotlar bazasini boshqarish tizimi"
+    },
+    {
+        "savol": "Android Studioda muharrir (editor) maxsus sozlamalari qaysi katalogda saqlanadi?",
+        "javob": ".idea"
+    },
+    {
+        "savol": "Quyidagilardan qaysi biri Android platformasi uchun dastur yozish imkoni mavjud emas?",
+        "javob": "Sublime Text 3"
+    },
+    {
+        "savol": "Vaqt bilan ishlash uchun Android Studioda qaysi komonenta ishlatiladi?",
+        "javob": "TimePicker"
+    },
+    {
+        "savol": "Asosan tugmachali telefonlarda ishlatilgan mobil OT ni belgilang?",
+        "javob": "Symbian"
+    },
+    {
+        "savol": "Windows OT ga quyidagi dasturlardan qaysi birini o‘rnatib, .apk kengaytmali dasturni ishlatish mumkin?",
+        "javob": "Genymotion"
+    },
+    {
+        "savol": "Android Studioda kerakli kutubxona va modullar qaysi komanda bilan chaqiriladi?",
+        "javob": "import"
+    },
+    {
+        "savol": "Butun sonli ma’lumotlar qaysi tipda e’lon qilinadi?",
+        "javob": "int (integer)"
+    },
+    {
+        "savol": "Joriy elementga murojaat qilish uchun qaysi kalit so‘z ishlatiladi?",
+        "javob": "this"
+    },
+    {
+        "savol": "GUI nima?",
+        "javob": "Foydalanuvchi grafik interfeysi"
+    },
+    {
+        "savol": "Haqiqiy sonlar qaysi kalit so‘z bilan e’lon qilinadi?",
+        "javob": "float"
+    },
+    {
+        "savol": "Funksiyadagi return buyrug‘i qanday vazifani bajaradi?",
+        "javob": "o‘zidan keyin keluvchi ma’lumot (son, satr, …) ni funksiya chaqirilgan joyga qaytaradi (uzatadi)"
+    },
+    {
+        "savol": "Android Studioda qilinayotgan mobil ilova loyihasida Flutterni yangilashga doir metama’lumotlar qaysi faylda saqlanadi?",
+        "javob": ". metadata"
+    },
+    {
+        "savol": "Ilk telefon qurilmasiga kim patent olgan?",
+        "javob": "Aleksandr Bell"
+    },
+    {
+        "savol": "Android dasturni WINDOWS OT da ishlatish mumkinmi?",
+        "javob": "Mumkin, emulyatorlar kerak bo‘ladi"
+    },
+    {
+        "savol": "iOS OT haqida to‘g‘ri ta’rif berilgan javobni belgilang?",
+        "javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+        "savol": "Android OT quyidagi imkoniyatlarning qaysi birini qo‘llab-quvvatlaydi?",
+        "javob": "Ko‘p vazifalilik"
+    },
+    {
+        "savol": "WINDOWS OT asosida yaratilgan mobil OT ni belgilang?",
+        "javob": "Windows Phone"
+    },
+    {
+        "savol": "Apple mobil qurilmalari uchun ilovalar do‘koni qanday nomlanadi?",
+        "javob": "App Store"
+    },
+    {
+        "savol": "Quyidagilardan GUI elementlarini belgilang?",
+        "javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+        "savol": "SDK Manager bu …",
+        "javob": "SDK versiyalarini boshqarish utilitasi"
+    },
+    {
+        "savol": "Satrli o‘zgaruvchilar qaysi tipda e’lon qilinadi?",
+        "javob": "string"
+    },
+    {
+        "savol": "Android Studioda kompilyatsiya qilinib, ishlayotgan dasturga kiritilgan o‘zgarishlarni tezkor qo‘llash imkonini beruvchi komanda qaysi?",
+        "javob": "Hot reload"
+    },
+    {
+        "savol": "Quyidagi muharrirlardan qaysi birida Android platformasi uchun dastur yozish mumkin?",
+        "javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+        "savol": "Android mobil qurilmalari uchun Googlening ilovalar do‘koni qanday nomlanadi?",
+        "javob": "Play Market"
+    },
+    {
+        "savol": "Zamonaviy smartfonlar quyidagi qaysi funksiyalarga ega?",
+        "javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+        "savol": "Android Virtual Device (AVD) ni ishga tushirish uchun talablar qanday?",
+        "javob": "SDK vositalari 26.1.1 yoki undan keyingi versiyalari. 64 bitli protsessor. Windows: UG (Cheksiz mehmon) qo‘llab-quvvatlaydigan protsessor. HAXM 6.2.1 yoki undan keyingi versiyasi."
+    },
+    {
+        "savol": "Android telefonlarga Play Market ilovalar magazinidan boshqa joydan ham dastur o‘rnatsa bo‘ladimi?",
+        "javob": "Ha, shunga ruxsat beruvchi sozlamani yoqish kerak"
+    },
+    {
+        "savol": "Android Studioda kodlarimiz qatorlari orasidagi masofani sozlash ketma-ketligi qanday?",
+        "javob": "File » Settings » Editor » Font » Size"
+    },
+    {
+        "savol": "Android Studioda yaratilgan loyihani yana qaysi muharrirlarda o‘zgartirish va ishlatish mumkin?",
+        "javob": "Android Studio, IntelliJ IDEA, Eclipse"
+    },
+    {
+        "savol": "Android Studio-da ishlatiladigan asosiy o‘lchov birligi nima?",
+        "javob": "dp"
+    },
+    {
+        "savol": "BlueStacks dasturidan qay maqsadda foydalanamiz?",
+        "javob": "Emulyator"
+    },
+    {
+        "savol": "Katta kichik harflarga sezuvchanlik hususiyati qanday nomlanadi?",
+        "javob": "Case sensitive"
+    },
+    {
+        "savol": "Android Studioda fayl ichidan qidiruvni amalga oshirish uchun qaysi klavishlar ketma-ketligi bosiladi?",
+        "javob": "Ctrl + F"
+    },
+    {
+        "savol": "ToggleButton sinfining eng ko‘p ishlatiladigan usullari qanday?",
+        "javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+        "savol": "Android CheckBox klassi qaysi sinfning subclassi?",
+        "javob": "CompoundButton"
+    },
+    {
+        "savol": "Android Studioda qanday maxsulotlar yaratish mumkin?",
+        "javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+        "savol": "CheckBox nima?",
+        "javob": "bu maxsus turdagi button va ikkita holatda bo‘lishi mumkin: tekshirilgan yoki belgilanmagan."
+    },
+    {
+        "savol": "\"Ochiq telefon\" linyasi qachon tuzilgan?",
+        "javob": "2007 yil"
+    },
+    {
+        "savol": "RadioGroup qaysi tugmani o‘z ichiga oladi?",
+        "javob": "RadioButton"
+    },
+    {
+        "savol": "Android Studioda qaysi tillarda dastur yozish mumkin?",
+        "javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+        "savol": "Android Studioda muharrir uchun mavzu (rang sxemalari) ni sozlash ketma-ketligi qanday?",
+        "javob": "File » Settings » Editor » Color Scheme"
+    },
+    {
+        "savol": "Android-ning muhim xususiyatlari qanday?",
+        "javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+        "savol": "… tugma hisoblanib, uni bosish orqali muayyan amalni bajarishga dasturlash mumkin.",
+        "javob": "Button"
+    },
+    {
+        "savol": "Matematik amallarni o‘z ichiga olgan kutubxona qanday nomlanadi?",
+        "javob": "Math"
+    },
+    {
+        "savol": "Android Studioda sozlamalarga kirish ketma-ketligi qanday?",
+        "javob": "File » Settings"
+    },
+    {
+        "savol": "Toast sinfining maqsadi nima?",
+        "javob": "Ma'lum vaqtdan keyin xabarnomani ko‘rsatish uchun foydalaniladi."
+    },
+    {
+        "savol": "Fon rangi qaysi atribut orqali o‘rnatiladi?",
+        "javob": "android:background=\"#E3254B\""
+    },
+    {
+        "savol": "… buttonning maxsus turi hisoblanib, ikki hil holatda bo‘lishi mumkin: checked yoki unchecked.",
+        "javob": "CheckBox"
+    },
+    {
+        "savol": "Quyidagi dialog oynalaridan qaysi biri Android tomonidan qo‘llab-quvvatlanadi?",
+        "javob": "AlertDialog"
+    },
+    {
+        "savol": "Qaysi MBBT avtomatik ravishda Android tomonidan taqdim etiladi?",
+        "javob": "SQLite"
+    },
+    {
+        "savol": "TableLayout  - oynasi jadval qatorini hosil qilish uchun qaysi  elementdan foydalaniladi?",
+        "javob": "TableRow"
+    },
+    {
+        "savol": "Android Studioda kiritilgan matnni kursiv ko‘rinishiga o‘tkazish qaysi buyrug‘i to‘g‘ri kiritilgan qatorni belgilang?",
+        "javob": "android:textStyle=\"italic\""
+    },
+    {
+        "savol": "Obyekt gorizontal uzunligini (kengligini) sozlash uchun qaysi atributga murojaat qilinadi?",
+        "javob": "width"
+    },
+    {
+        "savol": "Komponentaning tashqi chegarasida bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
+        "javob": "margin"
+    },
+    {
+        "savol": "Komponentaning ichki chegarasida bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
+        "javob": "padding"
+    },
+    {
+        "savol": "Obyekt nom berish uchun qaysi atributga murojaat qilinadi?",
+        "javob": "text"
+    },
+    {
+        "savol": "…– bu komponentalarni ma’lum o‘lchamlar va oraliqlar asosida joylashtirish imkoniyatini yaratadi.",
+        "javob": "AbsoluteLayout"
+    },
+    {
+        "savol": "… buttonga o‘xshash vidjet bo‘lib, rasmni tugma sifatida ishlatish mumkin.",
+        "javob": "ImageButton"
+    },
+    {
+        "savol": "Android Studioda brauzerlarni integratsiya qilish ketma-ketligi qanday?",
+        "javob": "File » Settings » Tools » Web Browsers"
+    },
+    {
+        "savol": "Android Virtual Device (AVD) ishga tushirish tartibini tanlang?",
+        "javob": "AVD-ni ikki marta bosiladi yoki Start bosiladi; Ishlayotgan emulyatorni to‘xtatish uchun o‘ng tugma bosiladi va Stop yoki Menu » Stop ketma ketligi"
+    },
+    {
+        "savol": "Android Studioda kod muharriridagi shriftni o‘zgartirish ketma-ketligi qanday?",
+        "javob": "File » Settings » Editor » Font » Size"
+    },
+    {
+        "savol": "…- bu komponentalarni bitta qatorga (gorizontal) yoki ustun (vertikal)ga joylashtirish uchun ishlatiladi.",
+        "javob": "LinearLayout"
+    },
+    {
+        "savol": "… - komponentalarning jadval asosida joylashuvidir.",
+        "javob": "TableLayout"
+    },
+    {
+        "savol": "Android Studioda mantiqiy ma’lumotlar qaysi tip orqali e’lon qilinadi?",
+        "javob": "Boolean"
+    },
+    {
+        "savol": "Android Studioda yangi plagin o‘rnatish ketma-ketligi qanday?",
+        "javob": "File » Settings »Plugins » Search & Install"
+    },
+    {
+        "savol": "… - komponentalarning jadval asosida joylashuvidir.",
+        "javob": "TableLayout"
+    },
+    {
+        "savol": "Android Studioda CheckBox tugmasini aktiv holati to‘g‘ri keltirilgan qatorni belgilang?",
+        "javob": "android:checked=\"true\""
+    },
+    {
+        "savol": "Komponentaning ichki yuqori chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
+        "javob": "paddingTop"
+    },
+    {
+        "savol": "Android Studioda yaratilgan ilovalni .apk formatga o‘tkazish ketma-ketligi qanday?",
+        "javob": "Build » Build bundle » Build APK"
+    },
+    {
+        "savol": "Komponentaning tashqi chap chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
+        "javob": "marginLeft"
+    },
+    {
+        "savol": "…- activity foydalanuvchi tomonidan ishlatilayotganda chaqiriladi.",
+        "javob": "onResume()"
+    },
+    {
+        "savol": "LinearLayout bu-…",
+        "javob": "komponentalarni bitta qatorga (gorizontal) yoki ustun (vertikal)ga joylashtirish uchun ishlatiladi."
+    },
+    {
+        "savol": "…- activity foydalanuvchiga ko‘rinmay qolganida chaqiriladi",
+        "javob": "onStop()"
+    },
+    {
+        "savol": "Komponentaning tashqi o‘ng chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
+        "javob": "marginRight"
+    },
+    {
+        "savol": "Komponentaning ichki chap chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
+        "javob": "paddingLeft"
+    },
+    {
+        "savol": "Android Studioda kiritilgan matn qalinligini sozlash to‘g‘ri kiritilgan qatorni belgilang?",
+        "javob": "android:textStyle=\"bold\""
+    },
+    {
+        "savol": "DataPicker foydalanuvchiga quyidagilarni amalga oshirishga imkon beradi:",
+        "javob": "Sanani belgilash"
+    },
+    {
+        "savol": "Android Studioda ochiq turgan loyihani yopish ketma-ketligi qanday?",
+        "javob": "File » Close"
+    },
+    {
+        "savol": "…-TextView ning qo‘shimcha imkoniyatli turi hisoblanib, foydalanuvchi ushbu komponenta orqali ma’lumot kiritishi mumkin.",
+        "javob": "EditText"
+    },
+    {
+        "savol": "Android Studioda matnga rang berish qaysi atribut orqali o‘rnatiladi?",
+        "javob": "android: textcolor"
+    },
+    {
+        "savol": "TimePickerDialog foydalanuvchiga quyidagilarni amalga oshirishga imkon beradi:",
+        "javob": "Vaqtni tanlash"
+    },
+    {
+        "savol": "Android Studioda mavjud loyihani ochish ketma-ketligi to‘g‘ri keltirilgan javobni belgilang?",
+        "javob": "File » Open"
+    },
+    {
+        "savol": "Obyekt vertikal uzunligini sozlash uchun qaysi atributga murojaat qilinadi?",
+        "javob": "height"
+    },
+    {
+        "savol": "Android ilovasida testlarni yaratish uchun qanday paket ishlatiladi?",
+        "javob": "test"
+    },
+    {
+        "savol": "Funksiya o‘zi chaqirilgan moduldan qabul qilib oladigan qiymatlar nima deb ataladi?",
+        "javob": "argument"
+    },
+    {
+        "savol": "Android Studioda yangi loyiha yaratish ketma-ketligi to‘g‘ri keltirilgan javobni belgilang",
+        "javob": "File » New » New Project"
+    },
+    {
+        "savol": "MainActivity.java faylidagi \"button\" ga murojaat qilish uchun activity_main.xml dagi tugma uchun qanday funktsiya yozilgan?",
+        "javob": "android: id = \"@ + id / button\""
+    },
+    {
+        "savol": "Matn qalinligini sozlash uchun qaysi atributga qiymat beriladi?",
+        "javob": "android:textStyle"
+    },
+    {
+        "savol": "Android Studioda boshqa dasturlash muharriri (IntellijIdea, VSCode, …) da yaratilgan loyihani import qilish ketma-ketligi to‘g‘ri keltirilgan javobni belgilang",
+        "javob": "File » New » Import Project"
+    },
+    {
+        "savol": "Matnni o‘rtaga tekislash uchun textAlign atributiga qanday qiymat beriladi?",
+        "javob": "center"
+    },
+    {
+        "savol": "MainActivity.java faylidagi \"TextView\" ga matn kiritish uchun activity_main.xml dagi tugma uchun qanday funktsiya yozilgan?",
+        "javob": "android: text = \"Salom\""
+    },
+    {
+        "savol": "CheckBox sinfining asosiy usullari qanday?",
+        "javob": "public boolean isChecked (), public void setChecked (boolean status)"
+    },
+    {
+        "savol": "Android Studioda Button tugmasi bosilganda Buttonni ishga tushuvchi buyruq to‘g‘ri keltirilgan qatorni toping?",
+        "javob": "android:onClick"
+    },
+    {
+        "savol": "…-dastur birinchi marta ishga tushganda activity ni  chaqiradi.",
+        "javob": "onCreate()"
+    },
+    {
+        "savol": "Android Studioda komponentaning ichki o‘ng chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
+        "javob": "android:paddingRight"
+    },
+    {
+        "savol": "…- activity to‘xtatilgan vaqtda chaqiriladi.",
+        "javob": "onDestroy()"
+    },
+    {
+        "savol": "Komponentaning tashqi yuqori chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
+        "javob": "marginTop"
+    },
+    {
+        "savol": "…- activity natijasi foydalanuvchiga ko‘ringanda chaqiriladi.",
+        "javob": "onStart()"
+    },
+    {
+        "savol": "Android Studioda oxirgi bir nechta loyihalarni ochish ketma-ketligi to‘g‘ri keltirilgan javobni belgilang?",
+        "javob": "File » Open recent"
+    },
+    {
+        "savol": "…- joriy activity faoliyati vaqtinchalik to‘xtatilib boshqa activity faollashtirilganda chaqiriladi.",
+        "javob": "onPause()"
+    },
+    {
+        "savol": "Android Studioda kiritilgan matnni o‘lchamini o‘gartirish uchun qaysi atributdan foydalaniladi?",
+        "javob": "android:textSize=\"25dp \""
+    },
+    {
+        "savol": "Android Studioda ImageView komponentasiga rasm kiritish buyrug‘i to‘g‘ri kiritilgan qatorni belgilang?",
+        "javob": "android:src=\"@drawable/circle\""
+    },
+    {
+        "savol": "Androidda Google Maps ximatidan foydalanish uchun qaysi kutubxonadan foydalaniladi?",
+        "javob": "android.gms.maps.MapFragment"
+    },
+    {
+        "savol": "Android Studio dasturida asosan matnli ma’lumotlar bilan ishlovchi .xml fayli qaysi?",
+        "javob": "strings.xml"
+    },
+    {
+        "savol": "android:layout_below=\"@+id/imageView\"  ushbu buyruq qanday amalni bajaradi?",
+        "javob": "Kiritiladigan komponentalarni imageView komponentasidan keyin (pastki qismdan) joylashtiradi."
+    },
+    {
+        "savol": "Strings.xml fayliga ilova nomi to‘g‘ri kiritilgan qatorni toping?",
+        "javob": "<string name=\"app_name\">Laboratoriya_Ishi_1</string>"
+    },
+    {
+        "savol": "Android Studio da asosan java kodlari bilan ishlovchi fayli qaysi qatorda keltirilgan?",
+        "javob": "MainActivity.java"
+    },
+    {
+        "savol": "Button tugmasini ekranning chap qismidan joylashtirish uchun qaysi atributdan foydalaniladi?",
+        "javob": "android:layout_ alignLeft"
+    },
+    {
+        "savol": "Android Studio dasturida matnga link orqali rang berish uchun qaysi atributdan foydalaniladi?",
+        "javob": "android:textColorLink"
+    },
+    {
+        "savol": "Android Studio dasturida asosan ranglari bilan ishlovchi .xml fayli qaysi?",
+        "javob": "colors.xml"
+    },
+    {
+        "savol": "LinearLayout ning qaysi atributi orqali komponentalarni bitta qatorga (gorizontal) yoki ustun (vertikal)ga joylashtirish mumkin?",
+        "javob": "android:orientation"
+    },
+    {
+        "savol": "…- activity to‘xtatilgan vaqtda chaqiriladi.",
+        "javob": "onRestart()"
+    }
+]

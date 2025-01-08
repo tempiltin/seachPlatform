@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Question } from '../types';
-import data from '../data.json';
+import data from '../db/mobile.json';
 
 export function useSearch() {
   const [searchTerm, setSearchTerm] = useState('');
