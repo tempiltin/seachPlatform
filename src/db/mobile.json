@@ -1,802 +1,626 @@
 [
     {
-        "savol": "\"Mobil ilova\" atamasi qanday ilovalarga nisbatan ishlatiladi?",
-        "javob": "Mobil platformalarda ishlovchi ilovalar"
+        "savol": "Bioinformatika bu …………….",
+        "javob": "Biologik ko‘rsatkichlarni ifodalashda foydalaniladigan usullar va dasturlarni ishlab chiquvchi fan;"
     },
     {
-        "savol": "Emulyator qanday dastur?",
-        "javob": "Bir OT uchun yozilgan dasturni boshqa OT da ishlashini ta'minlovchi dastur"
+        "savol": "Bioinformatika termini dastlab kimlar tamonidan qo’llangan?",
+        "javob": "Polina Hogeveg va Ben Hesper;"
     },
     {
-        "savol": "Play Store nima?",
-        "javob": "Android telefonlari uchun mo‘ljallangan mobil ilovalar do‘koni"
+        "savol": "Bioinformatika termini fanda birinchi bor qachon qo’llangan edi.",
+        "javob": "1970-yil;"
     },
     {
-        "savol": "App Store haqida to‘g‘ri ta’rifni belgilang?",
-        "javob": "iOS foydalanuvchilari uchun mobil ilovalar do‘koni"
+        "savol": "Bioinformatika kompyuter modellashtirish yordamida hech bo‘lmaganda oqsil strukturasi uzoqroq; o‘xshash ketma-ketligi ma’lum bo‘lgan holatlarda ……………….yasashda yordam beradi.",
+        "javob": "oqsilning fazoviy modelini"
     },
     {
-        "savol": "Androidga to‘g‘ri ta’rif berilgan qatorni belgilan",
-        "javob": "Linux yadrosida ko‘tarilgan mobil OT //Kernell"
+        "savol": "………..qurilmasi biotibbiyot va fiziologik tarkibdagi ma’lumotlarni elektron qurilma signaliga aylantiradi",
+        "javob": "pikap"
     },
     {
-        "savol": "Quyidagilardan mobil dasturlash til va freymvorklarini belgilang",
-        "javob": "Kivy, Flutter, React Native"
+        "savol": "………….predmetlariga mikroorganizmlar, o‘simliklar, hayvonlar va inson genlari ularning maxsulotlari ma’lumotlar ba’zasi va ularning annotatsiyalari kiradi",
+        "javob": "Gen ontologiyasi"
     },
     {
-        "savol": "Flutter freymvorki qaysi dasturlash tiliga tegishli",
-        "javob": "Dart"
+        "savol": "Gen ontologiya loyihasining maqsadi bu…….",
+        "javob": "barcha javoblar to’g’ri"
     },
     {
-        "savol": "Table (yoki DataTable) komponentasi nima uchun ishlatiladi?",
-        "javob": "Ma’lumotlarni jadval ko‘rinishida ekranga chiqarish uchun"
+        "savol": "Gen ontologiya loyihasining vazifasi bu…….",
+        "javob": "barcha organizmlarning genlarini va ularning maxsulotlarini vazifalari, funksiyalari, strukturasini va amaldagi ontologik atamalarni yaratishdan iborat"
     },
     {
-        "savol": "Quyidagilardan faqat mobil OT lar ko‘rsatilgan qatorni belgilang",
-        "javob": "Android, iOS, Symbian, Windows mobile"
+        "savol": "Gen ontologiyaga qachon asos solingan",
+        "javob": "1998-yil;"
     },
     {
-        "savol": "Mobil ilovalar dizaynini ishlab chiqishda quyidagi grafik muharrirlarning qaysi biridan ko‘proq foydalaniladi?",
-        "javob": "Figma"
+        "savol": "2008-yil yanvar holatiga ko‘ra, gen ontologiya dasturi turli xil biologik organizmlarda qo‘llaniladigan ……… dan ortiq terminlarini o‘z ichiga oladi.",
+        "javob": "24500;"
     },
     {
-        "savol": "Mobil ilovalar dizaynini ishlab chiqishda UX tushunchasi nimani ifodalaydi?",
-        "javob": "Foydalanuvchi tajribasi"
+        "savol": "2011-yil sentyabr holatiga ko‘ra, gen ontologiya dasturi turli xil biologik organizmlarda qo‘llaniladigan ……… dan ortiq terminlarini o‘z ichiga oladi.",
+        "javob": "33000;"
     },
     {
-        "savol": "Grafik interfeys bu",
-        "javob": "Foydalanuvchining grafik interfeysi"
+        "savol": "2013-yil sentyabr holatiga ko‘ra, gen ontologiya dasturi turli xil biologik organizmlarda qo‘llaniladigan ……… dan ortiq annotatsiyalarni o‘z ichiga oladi.",
+        "javob": "96 mln"
     },
     {
-        "savol": "Kivy freymvorki qaysi dasturlash tiliga tegishli?",
-        "javob": "Python"
+        "savol": "……..fani turli tashqi ta’sirlar ostida sodir bo‘luvchi odam va hayvonlarning mexanik xarakatini o‘rganadi",
+        "javob": "Biomexanika"
     },
     {
-        "savol": "Boshqa klassdan voris olish uchun (Dart, Java) qaysi kalitso‘z ishlatiladi?",
-        "javob": "extends"
+        "savol": "Biomexanika fani bu-…………",
+        "javob": "turli tashqi ta’sirlar ostida sodir bo‘luvchi odam va hayvonlarning mexanik xarakatini o‘rganadi"
     },
     {
-        "savol": "Galereya ko‘rinishi nima?",
-        "javob": "Ekranda rasmlarni (rasmlarni) navbati bilan ko‘rsatish uchun foydalaniladi"
+        "savol": "Biomexanika usullarini turlarga ajratishimiz mumkin",
+        "javob": "tibbiy va mexanik"
     },
     {
-        "savol": "Android operatsion tizimi qaysi IT gigant tomonidan qo‘llab-quvvatlab kelinadi?",
-        "javob": "Google"
+        "savol": "Mexanika nuqtai nazaridan modellashtirish bu …….. dir",
+        "javob": "raqamli usullar"
     },
     {
-        "savol": "Genymotion, BlueStacks qanday vazifani bajaruvchi dasturlar?",
-        "javob": "emulyator"
+        "savol": "……….bu - o‘rganilayotgan obyektning sifat belgilarini, shuningdek, tajribalar natijasida olingan miqdoriy xususiyatlarni aniqlashni o‘z ichiga oladi",
+        "javob": "modellashtirish"
     },
     {
-        "savol": "SQLite qanday dastur hisoblanadi?",
-        "javob": "Ma’lumotlar bazasini boshqarish tizimi"
+        "savol": "Biotibbiy axborotni yig’ish, qayta ishlash, saqlash, uzatish, texnologiya va biologik ma’lumotlarni sharhlashni …….deb atash mumkin",
+        "javob": "Bioinformatika fan predmeti"
     },
     {
-        "savol": "Mobil operatsion tizimlar deganda nimani tushunasiz?",
-        "javob": "bu mobil qurilmalarni boshqarish uchun mo‘ljallangan tizimlar (smartfonlar, planshetlar, PDA va boshqa mobil qurilmalar)"
+        "savol": "Biomexanikani o‘rganishdan maqsad bu-………….",
+        "javob": "biologik obyektlar va tizimlar modellarini yaratishda, ularga tegishli kattaliklar qiymatlarini sifat va miqdor jixatidan baholashda mexanika qonunlaridan foydalana olish qobiliyatiga ega bo‘lish"
     },
     {
-        "savol": "Android Studioda yozilgan kodni natijasi (build) ni qanday ko‘rish mumkin?",
-        "javob": "Barcha javoblar to‘g‘ri"
+        "savol": "Biomexanika bu-………….",
+        "javob": "mexanika modellari va usullari asosida tirik to‘qimalarning, alohida a’zolar va tizimlarning yoki umuman organizmning mexanik xususiyatlarini, shuningdek ularda sodir bo‘ladigan mexanik hodisalarni o‘rganadi"
     },
     {
-        "savol": "Sozlamalar bu – …",
-        "javob": "qurilma ma'lumotlarini sozlamalar va parametrlarda saqlash"
+        "savol": "Biomexanikani o‘rganishdan maqsad bu-………….",
+        "javob": "mexanika, biologiya va tibbiyotni rivojlantirish uchun tadqiqot natijalarini, shu jumladan diagnostika maqsadlarida qo‘llash, to‘qimalar va organlarning o‘rnini bosuvchi moddalarni yaratish, tirik obektlardagi jarayonlarga ta’sir qilish usullarini ishlab chiqish, tahlil qilish usullarini yaratishdir"
     },
     {
-        "savol": "Ma'lumotlar manzili (path) nima uchun ishlatiladi?",
-        "javob": "Chaqirilgan resursning local/global adresini ko‘rsatish uchun"
+        "savol": "Birinchi guruhning funktsional diagnostikasining biosignallari ni ko’rsating: 1) elektrokardiogramma, 2) elektroensefalogramma, 3) puls oksimetriyasi, 4) stabilografik signal, 5) nutq signali, 6) reografik signal",
+        "javob": "1,2,4,5"
     },
     {
-        "savol": "Bir nechta variantni birgalikda tanlash maqsadida ishlatiladigan komponenta qaysi?",
-        "javob": "Checkbox"
+        "savol": "Ikkinchi guruhning funktsional diagnostikasining biosignallari ni ko’rsating: 1) fotopletismografik signal, 2) elektroensefalogramma, 3) puls oksimetriyasi, 4) stabilografik signal, 5) nutq signali, 6) reografik signal, 7) lazerli doppler flowmetri",
+        "javob": "1,3,6,7"
     },
     {
-        "savol": "iOS platformasini qaysi kompaniya qo‘llab-quvvatlab, rivojlantirib boradi?",
-        "javob": "Apple"
+        "savol": "Funfsional diagnostikada biosignallar nechta guruhga ajratiladi",
+        "javob": "2"
     },
     {
-        "savol": "Quyidagi tillardan qaysi birida mobil ilovalar ishlab chiqish imkoni mavjud emas?",
-        "javob": "PHP"
+        "savol": "……………bu-makon va vaqtning ma’lum chegaralarida birgalikda olingan va o‘xshashlik va farq belgilariga ega bo‘lgan nisbatan bir hil elementlar to‘plamidan iborat guruh",
+        "javob": "statistik umumiylik"
     },
     {
-        "savol": "Android Studioda tayyor bo‘lgan kodni biron qurilmada ishga tushirish (build) uchun qaysi buyruq bosiladi?",
-        "javob": "Run (Shift + F10)"
+        "savol": "Statistik tadqiqotlar nechta guruhga ajratiladi",
+        "javob": "2"
     },
     {
-        "savol": "Microsoft kompaniyasining mobil qurilmalar uchun yaratgan mobil operatsion tizimi qaysi?",
-        "javob": "Windows Phone"
+        "savol": "Statitik tadqiqot turlari to’g’ri ko’rsatilga javobnmi aniqlang",
+        "javob": "umumiy populyatsiya va tanlab olish"
     },
     {
-        "savol": "Android Studioda yozilgan kodni qaysi brauzerlar orqali build qilib ko‘rish mumkin?",
-        "javob": "Barcha javoblar to‘g‘ri"
+        "savol": "Tanlangan populyatsiya shunday shakllantiriladiki, dastlabki populyatsiyaning barcha elementlari kuzatuv bilan qamrab olinishi uchun teng imkoniyat yaratiladi. 2. Namuna  hodisani to‘g’ri va to‘liq aks ettirishi kerak, ya’ni xuddi butun aholi o‘rganilgandek, hodisa haqida bir xil fikrni berish. Bular…….dir",
+        "javob": "Tanlangan populyatsiya bo‘yicha statistik tadqiqot o‘tkazish xususiyatlari"
     },
     {
-        "savol": "Python dasturlash tilining Kivy freymvorkida qaysi qurilmalar uchun dastur yozish mumkin?",
-        "javob": "Barcha javoblar to‘g‘ri"
+        "savol": "Statistik aholini shakllantirish usullarini ko’rsating: 1. Umumiy tanlash, 2. Tasodifiy tanlash, 3. Mexanik tanlash, 4. Tipik (tipologik) tanlash, 5. Ketma-ket tanlash, 6. Fizik tanlash, 7. Kombinatsiyalangan usullar",
+        "javob": "2,3,4,5,7"
     },
     {
-        "savol": "APK formati qanday turdagi fayllarni saqlaydi?",
-        "javob": "Android dasturning build qilingan holati"
+        "savol": "Statistik ahalini shakillantishishining nechta usuli mavjud",
+        "javob": "5"
     },
     {
-        "savol": "Mobil dasturlashda Android ilovalar uchun asosan qaysi dizayn kutubxonasi ishlatiladi?",
-        "javob": "Material"
+        "savol": "Statistik aholining elementlari bir-biridan farq qiladigan belgilar ro‘yxatga olinishi kerak va bu buxgalteriya belgilari deb ataladi",
+        "javob": "Buxgalteriya belgilari"
     },
     {
-        "savol": "Android Studioda quyidagi qaysi platformalar uchun dasturlar yozish mumkin?",
-        "javob": "Android va iOS, iOS uchun Flutter plaginini o‘rnatib yozish mumkin"
+        "savol": "Statistik tadqiqot predmeti bu-……….",
+        "javob": "aholi salomatligi, tibbiy yordamni tashkil etish, sog’likka ta’sir etuvchi ekologik omillar va boshqalar"
     },
     {
-        "savol": "Android Studioda iOS uchun ham dastur yozishga qanday talablar mavjud?",
-        "javob": "Flutter plaginini o‘rnatish kerak"
+        "savol": "Statistik tadqiqotning qaysi bosqichida ¬maqsad aniqlanadi, kuzatish obyekti va birligi belgilanadi, ¬asboblar ¬va kuzatish dasturi ishlab chiqiladi?",
+        "javob": "Statistik kuzatishni tayyorlash"
     },
     {
-        "savol": "Image (Imageview) komponentasi qay maqsadda ishlatiladi?",
-        "javob": "Rasmlarni joylashtirish uchun"
+        "savol": "…. bu - kuzatish birligining holatini ¬doimiy ravishda kuzatib boruvchi va ¬unga turli omillar ta'sirining ¬kuchini baholaydigan tizim¬",
+        "javob": "Statistik registr"
     },
     {
-        "savol": "Mobil ilovadagi element ustiga sichqoncha chap tugmasi bilan bosilganda qaysi metod ishga tushadi?",
-        "javob": "OnPressed()"
+        "savol": "Statistik tadqiqotning nechta bisqichi mavjud?",
+        "javob": "5"
     },
     {
-        "savol": "Android dasturlari qaysi kengaytma bilan saqlanadi?",
-        "javob": ".apk"
+        "savol": "Statistik tadqiqotning birinchi bosqichi bu - …………",
+        "javob": "Tadqiqot rejasi va dasturini tuzish, tadqiqot maqsadi va vazifalarini aniqlash, tadqiqot rejasi va dasturini tuzish, statistik materiallarni umumlashtirish dasturi ishlab chiqish va tashkiliy masalalarni hal qilish"
     },
     {
-        "savol": "Sana bilan ishlovchi komponenta (Android Studio, Flutter) qanday nomlanadi?",
-        "javob": "DatePicker"
+        "savol": "Statistik tadqiqotning ikkinchi bosqichi bu - …………",
+        "javob": "Materiallar to‘plami (statistik kuzatish) - o‘rganilayotgan hodisaning alohida holatlarini va ularni tavsiflovchi hisobga olish belgilarini ro‘yxatga olish blankalarida qayd etishdan iborat"
     },
     {
-        "savol": "Flutter freymvorki qaysi kompaniya tomonidan qo‘llab quvvatlanadi?",
-        "javob": "Google"
+        "savol": "Statistik tadqiqotning uchunchi bosqichi bu - …………",
+        "javob": "Materialni ishlab chiqish, statistik guruhlash va xulosa qilish - kuzatishlar sonini, olingan ma’lumotlarning to‘liqligi va to‘g’riligini tekshirish va aniqlashtirish, xatolarni, takroriy yozuvlarni aniqlash va bartaraf etishdan boshlanadi"
     },
     {
-        "savol": "Label vazifasini bajaruvchi komponentalar nomlari berilgan qatorni ko‘rsating?",
-        "javob": "Text, TextView"
+        "savol": "Statistik tadqiqotning to’rtinchi bosqichi bu - …………",
+        "javob": "O‘rganilayotgan hodisaning parametrlarini statistik tahlil qilish, xulosalarni shakllantirish - statistik ko‘rsatkichlarni hisoblash, natijalarning grafik tasviri, dinamikasi, tendentsiyalari va ular o‘rtasidagi munosabatlar o‘rganiladi"
     },
     {
-        "savol": "Mobil ilova (masalan, birorta .apk kengaytmali fayl) ni kompyuterda ishlatish imkonini beruvchi dasturlar qanday nomlanadi?",
-        "javob": "Emulyator"
+        "savol": "Statistik tadqiqotning beshinchi bosqichi bu - …………",
+        "javob": "Olingan natijalarni maqola, ma’ruza, ma’ruza, dissertatsiya va boshqalar shaklida ro‘yxatdan o‘tkazish"
     },
     {
-        "savol": "Android Studioda mavjud faylni ochish uchun qaysi buyruqdan foydalaniladi?",
-        "javob": "Open (Ctrl + O)"
+        "savol": "Statistik tadqiqotning qaysi bosqichida olingan natijalarni maqola, ma’ruza, ma’ruza, dissertatsiya va boshqalar shaklida ro‘yxatdan o‘tkazish amalga oshiriladi?",
+        "javob": "5"
     },
     {
-        "savol": "Dart tilining mobil dasturlash uchun mo‘ljallangan freymvorkini belgilang?",
-        "javob": "Flutter"
+        "savol": "Statistik tadqiqotning qaysi bosqichida o‘rganilayotgan hodisaning parametrlarini statistik tahlil qilish, xulosalarni shakllantirish - statistik ko‘rsatkichlarni hisoblash, natijalarning grafik tasviri, dinamikasi, tendentsiyalari va ular o‘rtasidagi munosabatlar o‘rganiladi?",
+        "javob": "4"
     },
     {
-        "savol": "Quyidagilardan qaysi biri mobil dasturlash freymvorki hisoblanadi?",
-        "javob": "Barcha javoblar to‘g‘ri"
+        "savol": "Statistik tadqiqotning qaysi bosqichida materialni ishlab chiqish, statistik guruhlash va xulosa qilish - kuzatishlar sonini, olingan ma’lumotlarning to‘liqligi va to‘g’riligini tekshirish va aniqlashtirish, xatolarni, takroriy yozuvlarni aniqlash va bartaraf etishdan boshlanadi?",
+        "javob": "3"
     },
     {
-        "savol": "iOS uchun yozilgan kodni qanday qurilmada build qilish mumkin?",
-        "javob": "Faqatgina MacOS o‘rnatilgan qurilmada"
+        "savol": "Statistik tadqiqotning qaysi bosqichida materiallar to‘plami (statistik kuzatish) - o‘rganilayotgan hodisaning alohida holatlarini va ularni tavsiflovchi hisobga olish belgilarini ro‘yxatga olish blankalarida qayd etiladi?",
+        "javob": "2"
     },
     {
-        "savol": "Kodning dasturchi uchun tushunarli holatda, probel va tabulyatsiya belgilari bilan yozilgan holati qanday nomlanadi?",
-        "javob": "Human readable"
+        "savol": "Statistik tadqiqotning qaysi bosqichida tadqiqot rejasi va dasturini tuzish, tadqiqot maqsadi va vazifalarini aniqlash, tadqiqot rejasi va dasturini tuzish, statistik materiallarni umumlashtirish dasturi ishlab chiqish va tashkiliy masalalarni hal qilinadi?",
+        "javob": "1"
     },
     {
-        "savol": "Android Studioda kodni “Human readable” ko‘rinishga o‘tkazish uchun qaysi klavishlar birgalikda bosiladi?",
-        "javob": "Ctrl + Alt + L"
+        "savol": "Taqqoslangan guruhlarda ¬belgi uchun mos keladigan qiymatlarning yo‘qligi (barcha raqamlar boshqacha) yoki bunday mosliklarning soni juda kam bo’lganda qaysi test samarali hisoblanadi?",
+        "javob": "Mann-Whitney U-testi"
     },
     {
-        "savol": "Quyidagilardan qaysi dasturlash tilida mobil dasturlash uchun freymvork mavjud emas?",
-        "javob": "PHP"
+        "savol": "Qaysi usul ikkita variatsion qator o‘rtasidagi o‘zaro bog’liq qiymatlar maydoni yetarlicha kichik yoki yo‘qligini aniqlashga asoslangan",
+        "javob": "Mann-Whitney U-testi"
     },
     {
-        "savol": "Qaysi mobil operatsion tizimda ishlaydigan qurilmalar eng ko‘p tarqalgan?",
-        "javob": "Android"
+        "savol": "Mann-Whitney U-testining Talabaning t-testidan farqli tomoni qanday?",
+        "javob": "taqqoslanayotgan populyatsiyalarning normal taqsimlanishini talab qilmaydi"
     },
     {
-        "savol": "Android operatsion tizimining keng tarqalishining asosiy sababini belgilang?",
-        "javob": "Open source va tekin tarqatilishi"
+        "savol": "…………..testi - bu har bir toifaga kiruvchi ¬namunaning ¬haqiqiy (¬tadqiqot natijasida aniqlangan) natijalari yoki sifat xususiyatlari o‘rtasidagi farqlarning ahamiyatini -baholaydigan ¬parametrik bo‘lmagan usul",
+        "javob": "Pearsonning x-kvadrat"
     },
     {
-        "savol": "Android haqida to‘g‘ri ta’rif berilgan qatorni belgilang?",
-        "javob": "Barcha javoblar to‘g‘ri"
+        "savol": "Nisbatlar shkalasi uchun ……….. dan foydalanish tavsiya etiladi",
+        "javob": "Kramer-Velch testi"
     },
     {
-        "savol": "Android Studioda Flutter bilan ishlaganda Dart dasturlash tiliga doir maxsus sozlamalar qaysi katalogda saqlanadi?",
-        "javob": ".dart"
+        "savol": "Nisbatlar shkalasi uchun ……….. dan foydalanish tavsiya etiladi",
+        "javob": "Kramer-Velch testi"
     },
     {
-        "savol": "Android Studioda qilinayotgan mobil ilova loyihasida Git sozlamalari qaysi faylda saqlanadi?",
-        "javob": ".gitignore"
+        "savol": "Agar taqqoslangan namunalarda bir-biridan farq qiladigan qiymatlar soni ¬katta bo‘lsa (o‘ndan ortiq), u ¬holda …….dan foydalanish mumkin",
+        "javob": "Mann-Whitney U-testi"
     },
     {
-        "savol": "Android Studioda Flutter freymvorkida qilinayotgan mobil ilova loyihasida .metada faylida qanday ma’lumotlar saqlanadi?",
-        "javob": "Flutter yangilanishiga oid metama’lumotlar"
+        "savol": "Tartibli shkala uchun ……. testlaridan foydalanish tavsiya ¬etiladi",
+        "javob": "Wilcoxon testi va Mann-Whitney U-testi"
     },
     {
-        "savol": "Dastlab Andriod OT versiyalari qanday nomlangan?",
-        "javob": "Shirinliklar nomlari bilan"
+        "savol": "Nominal shkalasi uchun ……….. dan foydalanish tavsiya etiladi",
+        "javob": "Pearsonning x-kvadrat"
     },
     {
-        "savol": "Android Studioda qilinayotgan mobil ilova loyihasida .gitignore faylida qanday ma’lumotlar saqlanadi?",
-        "javob": "Git bilan ishlash sozlamalari"
+        "savol": "Dichotomous shkalasi uchun ……….. dan foydalanish tavsiya etiladi",
+        "javob": "F-testi"
     },
     {
-        "savol": "Android Studioda qilinayotgan mobil ilova loyihasida kerakli paketlar haqidagi ma’lumotlar qaysi faylda saqlanadi?",
-        "javob": "packages"
+        "savol": "Tibbiyot sohasida model qurish jarayoni nechta bosqichda amalga oshiriladi?",
+        "javob": "4"
     },
     {
-        "savol": "Android qaysi sabablarga ko‘ra Linuxga asoslanib yaratilgan?",
-        "javob": "Barcha javoblar to‘g‘ri"
+        "savol": "Modellashtirishning qaysi bosqichi obyekt haqidagi ma’lum bilimlarning mavjudligini nazarda tutadi?",
+        "javob": "1"
     },
     {
-        "savol": "Android Studioda qilinayotgan mobil ilova loyihasida iOS katalogida qanday ma’lumotlar saqlanadi?",
-        "javob": "iOS ga oid kodlar"
+        "savol": "Modellashtirishning qaysi bosqichining yakuniy natijasi model haqidagi boy bilimlar to’plami hisoblanadi?",
+        "javob": "2"
     },
     {
-        "savol": "Android Studioda qilinayotgan mobil ilova loyihasida .packages faylida qanday ma’lumotlar saqlanadi?",
-        "javob": "Paketlar haqida qo‘shimcha ma’lumotlar"
+        "savol": "Modellashtirishning qaysi bosqichida bilimlarni modeldan asl nusxaga o‘tkazish amalga oshiriladi?",
+        "javob": "3"
     },
     {
-        "savol": "Android Studioda iOS spetsifikatsiyasiga doir maxsus sozlamalar qaysi katalogda saqlanadi?",
-        "javob": "Ios"
+        "savol": "Modellashtirishning qaysi bosqichida modellar yordamida olingan bilimlarni -amaliy ¬tekshirish va ulardan ¬obyektning umumiy nazariyasini qurish, uni o‘zgartirish yoki boshqarish uchun foydalanish amalga oshiriladi?",
+        "javob": "4"
     },
     {
-        "savol": "Samarali mobil ilova ishlab chiqish uchun qaysi savollarga to‘g‘ri javob berish kerak?",
-        "javob": "Barcha javoblar to‘g‘ri"
+        "savol": "Modellashtirishning to’ttinchi bosqichida……………amalga oshiriladi?",
+        "javob": "modellar yordamida olingan bilimlarni ¬amaliy ¬tekshirish va ulardan ¬obyektning umumiy nazariyasini qurish, uni o‘zgartirish yoki boshqarish uchun foydalanish"
     },
     {
-        "savol": "Android Studioda qilinayotgan mobil ilova loyihasida android katalogida qanday ma’lumotlar saqlanadi?",
-        "javob": "Android maxsus (native) kodlari"
+        "savol": "Modellashtirishning uchinchi bosqichida……………amalga oshiriladi?",
+        "javob": "bilimlarni modeldan asl nusxaga o‘tkazish"
     },
     {
-        "savol": "Android Studioda Flutterda dasturlash uchun qanday talablar mavjud?",
-        "javob": "Barcha javoblar to‘g‘ri"
+        "savol": "Biotizimning matematik modelini qurish jarayoni nechta bosqichlarga bo‘linadi?",
+        "javob": "8"
     },
     {
-        "savol": "Android OT qaysi kompaniya tomonidan yaratilgan?",
-        "javob": "Android Ins"
+        "savol": "Biotizimning matematik modelini qurishning o’rganilayotgan obyektni tahlil qilish bosqichida nima amalga oshiriladi?",
+        "javob": "Obyektdagi sabab-oqibat ¬munosabatlarini aniqlash"
     },
     {
-        "savol": "Android Studioda dastur kodini kompilyatsiya qilib, to‘g‘ridan to‘g‘ri telefonga o‘rnatish mumkinmi?",
-        "javob": "Mumkin, USB interfeys va ba’zi sozlamalar bilan"
+        "savol": "Biotizimning matematik modelini qurishning tajriba bosqichida nima amalga oshiriladi?",
+        "javob": "Bog’liq o‘zgaruvchilarni aniqlash uchun tajribalarni o‘rnatish va o‘tkazish, kirish va chiqishlarning dinamik egri chiziqlarini qayd etish"
     },
     {
-        "savol": "Android Studioda qilinayotgan mobil ilova loyihasida .idea katalogida qanday ma’lumotlar saqlanadi?",
-        "javob": "Muharrir dasturi (editor) sozlamalari"
+        "savol": "Biotizimning matematik modelini qurishning eksperemental ma’lumotlarni statistic qayta ishlash bosqichida nima amalga oshiriladi?",
+        "javob": "Chiqarish qiymati, dispersiya ¬va ¬standart og’ishning matematik kutilishini aniqlash"
     },
     {
-        "savol": "Mobil ilova yaratishda konsepsiyani ishlab chiqish qaysi jarayonlarni o‘z ichiga oladi?",
-        "javob": "Barcha javoblar to‘g‘ri"
+        "savol": "Biotizimning matematik modelini qurishning kirish ¬va chiqish o‘zgaruvchilari tizimining murakkablik darajasini va tashkil etilishini aniqlash bosqichida nima amalga oshiriladi?",
+        "javob": "Obyektning kirish va chiqishlari bo‘lishi mumkin bo‘lgan holatlar sonini hisoblash"
     },
     {
-        "savol": "Javascript dasturlash tilining mobil dasturlashga mo‘ljallangan freymvorkini belgilang?",
-        "javob": "React Native"
+        "savol": "Biotizimning matematik modelini qurishning umumiy sintez algoritmi nechta qisimga ajratiladi?",
+        "javob": "3"
     },
     {
-        "savol": "Bir nechta platformalar uchun birdaniga dastur yozish imkoniga ega dasturlash tillari … dasturlash tillari deyiladi.",
-        "javob": "Krossplatformali"
+        "savol": "Biotizimning matematik modelini qurishning umumiy sintez algoritmi uchinchi qismida nima amalga oshiriladi?",
+        "javob": "Adekvat matematik modelni qurish"
     },
     {
-        "savol": "Faqat emulyator dasturlar berilgan qatorni toping?",
-        "javob": "BlueStacks, Genymotion"
+        "savol": "Dispersiyani tahlil qilish konsepsiyasiga qachon asos solingan?",
+        "javob": "1920-yil"
     },
     {
-        "savol": "Mobil dasturlashda faqatgina matn ko‘rinishidagi ma'lumotlarni ko‘rsatish uchun ishlatiladi va <........> elementi yordamida yaratiladi",
-        "javob": "TextView"
+        "savol": "Dispersiyani tahlil qilish konsepsiyasi birinchi kim tomonidan taklif etilgan?",
+        "javob": "Fisher"
     },
     {
-        "savol": "CheckBox komponentasiga to‘g‘ri ta’rif berilgan qatorni belgilang",
-        "javob": "bu maxsus turdagi tugma va ikkita holatda bo‘lishi mumkin: checked yoki unchecked."
+        "savol": "dispersiyani tahlil qilishning maqsadi ¬bu - ……….",
+        "javob": "o‘rtacha qiymatlar orasidagi farqning statistik ahamiyatini tekshirishdir"
     },
     {
-        "savol": "Android Studioda virtual qurilmalar (telefon, planshet, …) ni yaratish, boshqarish imkonini beruvchi utilita qaysi?",
-        "javob": "AVD manager"
+        "savol": "……….. bu - matematik statistikada ¬ikkita tasodifiy o‘zgaruvchilar orasidagi bog’lanishning mustahkamligining umumiy qabul qilingan tavsifidir",
+        "javob": "Korrelyatsiya koeffitsientlari"
     },
     {
-        "savol": "Android Studioda sozlamalarga tezkor kirish uchun qaysi tugmachalar birgalikda bosiladi?",
-        "javob": "Ctrl + Alt + S"
+        "savol": "O’zaro ajralib turadiga necha xil turdagi korrelyatsiya koeffitsientlari mavjud",
+        "javob": "6"
     },
     {
-        "savol": "Mobil ilovalar dizaynini ishlab chiqishda UI tushunchasi nimani ifodalaydi?",
-        "javob": "Foydalanuvchi interfeysi"
+        "savol": "Pearson mahsulot-moment korrelyatsiyasi bu - ………….",
+        "javob": "uzluksiz o‘zgaruvchilar uchun ishlatiladigan korrelyatsiya koeffitsienti"
     },
     {
-        "savol": "Ma’lumotlarni jadval ko‘rinishida aks ettirish uchun qaysi komponenta ishlatiladi?",
-        "javob": "Table, DataTable"
+        "savol": "Spearmens rank-tartib korrelyatsiyasi bu - ………….",
+        "javob": "tartib (darajali) shkalalarda o‘lchanadigan o‘zgaruvchilar uchun korrelyatsiya koeffitsienti"
     },
     {
-        "savol": "Sinf yaratish qaysi kalit so‘z yordamida amalga oshiriladi?",
-        "javob": "class"
+        "savol": "nuqta-biserial korrelyatsiyasi bu - ………….",
+        "javob": "o‘zgaruvchilar nisbatini tahlil qilishda qo‘llaniladigan korrelyatsiya koeffitsienti"
     },
     {
-        "savol": "Button ustiga sichqoncha bilan bosilganda qaysi metod ishga tushadi?",
-        "javob": "onPress (Pressed)"
+        "savol": "………..bu - obyektlarni bitta parametr bo‘yicha emas, balki butun funktsiyalar to‘plami bo‘yicha bo‘lish imkonini beradi",
+        "javob": "Klaser tahlil afzalligi"
     },
     {
-        "savol": "CheckBox belgilanganda qaysi atribut True qiymatga ega bo‘ladi?",
-        "javob": "Checked"
+        "savol": "……….. bu - o‘rganilayotgan obyektlar va xususiyatlar to‘plamini bir hil guruhlar yoki ¬klasterlarga bo‘lishdir",
+        "javob": "Klaser tahlil maqsadi"
     },
     {
-        "savol": "Ob'ektning qiymati qaysi atribut orqali o‘rnatiladi?",
-        "javob": "Value"
+        "savol": "Klasterlarning tarkibi va soni ¬tanlangan bo‘linish mezonlariga bog’liq bu - ……",
+        "javob": "Klaser tahlil kamchiligi"
     },
     {
-        "savol": "Mavjud variantlardan faqat bittasini belgilash uchun ishlatiladigan komponenta qaysi?",
-        "javob": "Radio/RadioButton"
+        "savol": "Klaster tahlilning qaysi usulida Har bir obyekt bir nuqtali klaster sifatida qaraladi",
+        "javob": "Maksimal mahalliy masofa usuli"
     },
     {
-        "savol": "Android Studioda tayyor bo‘lgan faylni saqlash uchun qaysi buyruq bosiladi?",
-        "javob": "Save (Ctrl + S)"
+        "savol": "………… yordamida klasterlash protsedurasini grafik yoki geometrik tarzda tasvirlash mumkin",
+        "javob": "Dendogramma"
     },
     {
-        "savol": "Android Studioda qilinayotgan mobil ilova loyihasida test katalogida qanday ma’lumotlar saqlanadi?",
-        "javob": "dasturni testlashga doir kodlar"
+        "savol": "P.V.Terentev tomonidan qanday klasterlash algoritmi taklif etilgan",
+        "javob": "korrelyatsiya ¬pleiades"
     },
     {
-        "savol": "Android Studiodagi Android Virtual Device qanday vazifani bajaradi?",
-        "javob": "Emulyator yoki telefonsiz dasturni ishlatib ko‘rish imkoniyatini beradi"
+        "savol": "B. Efron tomonidan klaster tahlili natijalarining ¬barqarorligini tekshirish mumkin bo‘lgan qanday usul taklif etilgan?",
+        "javob": "Jacknife"
     },
     {
-        "savol": "Android Studioda sozlamalarga tezkor kirish uchun qaysi klavishlar birgalikda bosiladi?",
-        "javob": "Ctrl + Alt + S"
+        "savol": "………….bu - ¬to‘g’ridan-to‘g’ri kuzatishdan yashiringan ma'lum miqdordagi omillarni ¬aniqlash uchun statistik jihatdan bog’liq xususiyatlarni ¬o‘rganishda qo‘llaniladigan ko‘p o‘lchovli matematik statistika usulidir",
+        "javob": "Faktorli tahlil"
     },
     {
-        "savol": "Android Studioda android spetsifikatsiyasiga doir maxsus sozlamalar qaysi katalogda saqlanadi?",
-        "javob": "Android"
+        "savol": "Faktor so’zi qaysi tildan olingan?",
+        "javob": "barcha javoblar to’gri"
     },
     {
-        "savol": "“Hot reload” funksiyasi qanday vazifani bajaradi?",
-        "javob": "Ishlab turgan dasturga o‘zgarishlarni tezkor qo‘shish"
+        "savol": "Faktor tahlilining asosiy maqsadi quyidagilardan iborat:",
+        "javob": "O‘zgaruvchilar sonini kamaytirish va tasniflash"
     },
     {
-        "savol": "SQLite haqida quyidagilardan qaysi biri to‘g‘ri?",
-        "javob": "Ma’lumotlar bazasini boshqarish tizimi"
+        "savol": "Faktor tahlilining asosiy vazifasi quyidagilardan iborat:",
+        "javob": "Parametrlar to‘plamini ¬kamroq sonli omillar bilan almashtirishdir"
     },
     {
-        "savol": "Android Studioda muharrir (editor) maxsus sozlamalari qaysi katalogda saqlanadi?",
-        "javob": ".idea"
+        "savol": "Faktorli tahlilning necha xil turi mavjud?",
+        "javob": "5"
     },
     {
-        "savol": "Quyidagilardan qaysi biri Android platformasi uchun dastur yozish imkoni mavjud emas?",
-        "javob": "Sublime Text 3"
+        "savol": "Faktorli tahlil turlari to’gri keltirilgan qatorni aniqlang?",
+        "javob": "barcha javoblar to’gri"
     },
     {
-        "savol": "Vaqt bilan ishlash uchun Android Studioda qaysi komonenta ishlatiladi?",
-        "javob": "TimePicker"
+        "savol": "……….. bu- funktsional ko‘rsatkichdan farqli o‘laroq, to‘liq bo‘lmagan, ehtimollik (korrelyatsiya) bo‘lgan samaradorlik ko‘rsatkichi bilan aloqasi omillarni o‘rganish usulidir",
+        "javob": "Stoxastik tahlil"
     },
     {
-        "savol": "Asosan tugmachali telefonlarda ishlatilgan mobil OT ni belgilang?",
-        "javob": "Symbian"
+        "savol": "Faktor tahlining guruhlash usuli asoschisi kim?",
+        "javob": "L. Gutman"
     },
     {
-        "savol": "Windows OT ga quyidagi dasturlardan qaysi birini o‘rnatib, .apk kengaytmali dasturni ishlatish mumkin?",
-        "javob": "Genymotion"
+        "savol": "Faktor tahlining asosiy omil usuli asoschisi kim?",
+        "javob": "G. Tomson"
     },
     {
-        "savol": "Android Studioda kerakli kutubxona va modullar qaysi komanda bilan chaqiriladi?",
-        "javob": "import"
+        "savol": "Faktor tahlining maksimal ehtimollik usuli asoschisi kim?",
+        "javob": "D. Louli"
     },
     {
-        "savol": "Butun sonli ma’lumotlar qaysi tipda e’lon qilinadi?",
-        "javob": "int (integer)"
+        "savol": "Faktor tahlining minimal qoldiqlar usuli asoschisi kim?",
+        "javob": "G. Xarman"
     },
     {
-        "savol": "Joriy elementga murojaat qilish uchun qaysi kalit so‘z ishlatiladi?",
-        "javob": "this"
+        "savol": "Scree testi ¬birinchi marta ……. tomonidan taklif qilingan grafik usuldir",
+        "javob": "Cattel"
     },
     {
-        "savol": "GUI nima?",
-        "javob": "Foydalanuvchi grafik interfeysi"
+        "savol": "Ta'riflovchi statistika ¬ikki turdagi ma'lumotlar bilan shug’ullanadi bular:",
+        "javob": "miqdoriy va sifat"
     },
     {
-        "savol": "Haqiqiy sonlar qaysi kalit so‘z bilan e’lon qilinadi?",
-        "javob": "float"
+        "savol": "……… bu - katta ma'lumotlar massivining kichik qismini o‘rganish orqali uning xususiyatlarini olishga urinishgacha bo‘lgan muammolarni hal qilish usullarining rasmiylashtirilgan tizimi",
+        "javob": "Statistik xulosalar nazariyasi"
     },
     {
-        "savol": "Funksiyadagi return buyrug‘i qanday vazifani bajaradi?",
-        "javob": "o‘zidan keyin keluvchi ma’lumot (son, satr, …) ni funksiya chaqirilgan joyga qaytaradi (uzatadi)"
+        "savol": "………….. bu - o‘rganilayotgan obyekt yoki jarayonning holatini har qanday aniqlik bilan tasvirlash mumkin degan taxminga asoslanadi",
+        "javob": "Deterministik model"
     },
     {
-        "savol": "Android Studioda qilinayotgan mobil ilova loyihasida Flutterni yangilashga doir metama’lumotlar qaysi faylda saqlanadi?",
-        "javob": ". metadata"
+        "savol": "Deterministik model bu - …..",
+        "javob": "O‘rganilayotgan obyekt yoki jarayonning holatini har qanday aniqlik bilan tasvirlash mumkin degan taxminga asoslanadi"
     },
     {
-        "savol": "Ilk telefon qurilmasiga kim patent olgan?",
-        "javob": "Aleksandr Bell"
+        "savol": "Extimollik modeli bu - …..",
+        "javob": "O‘rganilayotgan obyekt yoki jarayonning holatini aniq tasvirlab bo‘lmaydi degan taxminga ¬asoslanadi"
     },
     {
-        "savol": "Android dasturni WINDOWS OT da ishlatish mumkinmi?",
-        "javob": "Mumkin, emulyatorlar kerak bo‘ladi"
+        "savol": "………….. bu - o‘rganilayotgan obyekt yoki jarayonning holatini aniq tasvirlab bo‘lmaydi degan taxminga ¬asoslanadi",
+        "javob": "Ehtimmollik modeli"
     },
     {
-        "savol": "iOS OT haqida to‘g‘ri ta’rif berilgan javobni belgilang?",
-        "javob": "Barcha javoblar to‘g‘ri"
+        "savol": "Deterministik biotizimlarni tavsiflash usullarining nechta ¬matematik usullari mavjud",
+        "javob": "3"
     },
     {
-        "savol": "Android OT quyidagi imkoniyatlarning qaysi birini qo‘llab-quvvatlaydi?",
-        "javob": "Ko‘p vazifalilik"
+        "savol": "Ehtimoliy biotizimlarni tavsiflash qanday matematik usullar yordamida amalga oshirilishi mumkin: 1. ehtimollar nazariyasi usullari, 2. axborot nazariyasi usullari, 3. ¬avtomatlar nazariyasi va naqshlarni aniqlash usullari, 4. optimal usullar, 5. differensial va integral tenglamalar, 6. algebraik",
+        "javob": "1,2,3"
     },
     {
-        "savol": "WINDOWS OT asosida yaratilgan mobil OT ni belgilang?",
-        "javob": "Windows Phone"
+        "savol": "Deterministik biotizimlarni tavsiflash qanday matematik usullar yordamida amalga oshirilishi mumkin: 1. ehtimollar nazariyasi usullari, 2. algebraik, 3. ¬avtomatlar nazariyasi va naqshlarni aniqlash usullari, 4. optimal usullar, 5. differensial va integral tenglamalar, 6. axborot nazariyasi usullari",
+        "javob": "2,4,5"
     },
     {
-        "savol": "Apple mobil qurilmalari uchun ilovalar do‘koni qanday nomlanadi?",
-        "javob": "App Store"
+        "savol": "Noaniq yondoshuvlarni birinchi bo’lib fanga kim tomonidan taklif etilgan",
+        "javob": "L.Zade"
     },
     {
-        "savol": "Quyidagilardan GUI elementlarini belgilang?",
-        "javob": "Barcha javoblar to‘g‘ri"
+        "savol": "Mann-Whitney U testi qanday test?",
+        "javob": "parametrik bo'lmagan statistik test"
     },
     {
-        "savol": "SDK Manager bu …",
-        "javob": "SDK versiyalarini boshqarish utilitasi"
+        "savol": "Ushbu mezonning empirik qiymati x va y namunalarining N va M o'lchamlari, x va y tanlama o'rtachalari va taqqoslangan namunalarning s2(x) va s2(y) tanlama dispersiyalari haqidagi ma'lumotlar asosida hisoblanadi",
+        "javob": "Kramer-Velch"
     },
     {
-        "savol": "Satrli o‘zgaruvchilar qaysi tipda e’lon qilinadi?",
-        "javob": "string"
+        "savol": "𝑥 =(𝑃1- 𝑃2)/(√𝑚1^2+𝑚2^2) bu yerda m1 va m2 nima?",
+        "javob": "arifmetik o'rtachalar orasidagi farq"
     },
     {
-        "savol": "Android Studioda kompilyatsiya qilinib, ishlayotgan dasturga kiritilgan o‘zgarishlarni tezkor qo‘llash imkonini beruvchi komanda qaysi?",
-        "javob": "Hot reload"
+        "savol": "IMSL nima?",
+        "javob": "IMSL paketi protseduralar kutubxonasi"
     },
     {
-        "savol": "Quyidagi muharrirlardan qaysi birida Android platformasi uchun dastur yozish mumkin?",
-        "javob": "Barcha javoblar to‘g‘ri"
+        "savol": "StatView-da ma'lumotlar va tahlil qilish uchun nechta asosiy hujjat turi mavjud?",
+        "javob": "2"
     },
     {
-        "savol": "Android mobil qurilmalari uchun Googlening ilovalar do‘koni qanday nomlanadi?",
-        "javob": "Play Market"
+        "savol": "StatView ma'lumotlarni kiritish va manipulyatsiya qilish uchun nimadan foydalaniladi?",
+        "javob": "electron jadvalga o'xshash interfeysdan"
     },
     {
-        "savol": "Zamonaviy smartfonlar quyidagi qaysi funksiyalarga ega?",
-        "javob": "Barcha javoblar to‘g‘ri"
+        "savol": "STADIA nima?",
+        "javob": "universal rus statistik to'plami"
     },
     {
-        "savol": "Android Virtual Device (AVD) ni ishga tushirish uchun talablar qanday?",
-        "javob": "SDK vositalari 26.1.1 yoki undan keyingi versiyalari. 64 bitli protsessor. Windows: UG (Cheksiz mehmon) qo‘llab-quvvatlaydigan protsessor. HAXM 6.2.1 yoki undan keyingi versiyasi."
+        "savol": "Biotibbiy ma'lumotlarni qayta ishlash uchun odatda Statistica kabi ma'lumotlarni qayta ishlash uchun universal dasturiy paketlardan foydalaniladi ulardan biri ?",
+        "javob": "STADIA"
     },
     {
-        "savol": "Android telefonlarga Play Market ilovalar magazinidan boshqa joydan ham dastur o‘rnatsa bo‘ladimi?",
-        "javob": "Ha, shunga ruxsat beruvchi sozlamani yoqish kerak"
+        "savol": "Biotibbiy ma'lumotlarni qayta ishlash uchun odatda Statistica kabima'lumotlarni qayta ishlash uchun universal dasturiy paketlardan foydalaniladi ?",
+        "javob": "StatView, IMSL, SYSTAT"
     },
     {
-        "savol": "Android Studioda kodlarimiz qatorlari orasidagi masofani sozlash ketma-ketligi qanday?",
-        "javob": "File » Settings » Editor » Font » Size"
+        "savol": "EMG signallarini qayta ishlash uchun qanday tahlil ishlatiladi?",
+        "javob": "spektral"
     },
     {
-        "savol": "Android Studioda yaratilgan loyihani yana qaysi muharrirlarda o‘zgartirish va ishlatish mumkin?",
-        "javob": "Android Studio, IntelliJ IDEA, Eclipse"
+        "savol": "Nechanchi yilda yilda rus fiziologi Vvedenskiy o'zining mushaklarining harakatni potentsialini telefon orqali tinglash tajribasini namoyish qildi?",
+        "javob": "1881"
     },
     {
-        "savol": "Android Studio-da ishlatiladigan asosiy o‘lchov birligi nima?",
-        "javob": "dp"
+        "savol": "… bu mushaklarning qisqarishini elektr signaliga aylantiradigan usuldir",
+        "javob": "Elektromiyografiya"
     },
     {
-        "savol": "BlueStacks dasturidan qay maqsadda foydalanamiz?",
-        "javob": "Emulyator"
+        "savol": "Birinchi marta elektromiyografiya usulini odam. Tadqiqot yordamida amalga oshiriladi nechanchi yilda?",
+        "javob": "1912"
     },
     {
-        "savol": "Katta kichik harflarga sezuvchanlik hususiyati qanday nomlanadi?",
-        "javob": "Case sensitive"
+        "savol": "Elektromiografiya mushaklar elektr faolligini qayd qiluvchi qanday usullar mavjud?",
+        "javob": "local global."
     },
     {
-        "savol": "Android Studioda fayl ichidan qidiruvni amalga oshirish uchun qaysi klavishlar ketma-ketligi bosiladi?",
-        "javob": "Ctrl + F"
+        "savol": "EEG nima?",
+        "javob": "bosh miyada hosil bo‘lgan biopotensiallarni yozib olish"
     },
     {
-        "savol": "ToggleButton sinfining eng ko‘p ishlatiladigan usullari qanday?",
-        "javob": "Barcha javoblar to‘g‘ri"
+        "savol": "EMG nima?",
+        "javob": "mushaklarda hosil bo‘lgan biopotensiallarni yozib olish"
     },
     {
-        "savol": "Android CheckBox klassi qaysi sinfning subclassi?",
-        "javob": "CompoundButton"
+        "savol": "EKG nima?",
+        "javob": "yurakda hosil bo‘lgan biopotensiallarni yozib olish"
     },
     {
-        "savol": "Android Studioda qanday maxsulotlar yaratish mumkin?",
-        "javob": "Barcha javoblar to‘g‘ri"
+        "savol": "ERG nima?",
+        "javob": "ko‘z to‘r pardasida hosil bo‘lgan biopotensiallarni yozib olishlar"
     },
     {
-        "savol": "CheckBox nima?",
-        "javob": "bu maxsus turdagi button va ikkita holatda bo‘lishi mumkin: tekshirilgan yoki belgilanmagan."
+        "savol": "…bu qo‘zg‘aluvchan hujayralardagi biotoklarni qayd qilish hisoblanadi",
+        "javob": "Biopotensiallarni yozib olish"
     },
     {
-        "savol": "\"Ochiq telefon\" linyasi qachon tuzilgan?",
-        "javob": "2007 yil"
+        "savol": "GSR nima?",
+        "javob": "Galvanik teri reaktsiyasi"
     },
     {
-        "savol": "RadioGroup qaysi tugmani o‘z ichiga oladi?",
-        "javob": "RadioButton"
+        "savol": "MMG nima?",
+        "javob": "Magnetoensefalogramma"
     },
     {
-        "savol": "Android Studioda qaysi tillarda dastur yozish mumkin?",
-        "javob": "Barcha javoblar to‘g‘ri"
+        "savol": "EOG nima?",
+        "javob": "Elektrookulografiya"
     },
     {
-        "savol": "Android Studioda muharrir uchun mavzu (rang sxemalari) ni sozlash ketma-ketligi qanday?",
-        "javob": "File » Settings » Editor » Color Scheme"
+        "savol": "NCS nima?",
+        "javob": "bu nerv orqali elektr impulsining o'tish miqdori va tezligini o'lchash"
     },
     {
-        "savol": "Android-ning muhim xususiyatlari qanday?",
-        "javob": "Barcha javoblar to‘g‘ri"
+        "savol": "EEGLAB nima?",
+        "javob": "MATLAB uchun paket"
     },
     {
-        "savol": "… tugma hisoblanib, uni bosish orqali muayyan amalni bajarishga dasturlash mumkin.",
-        "javob": "Button"
+        "savol": "OpenViBE nima?",
+        "javob": "neyrokompyuter interfeyslarini ishlab chiqish, sinash va ulardan foydalanish uchun yaratilgan bepul ochiq manba dasturiy ta’minot"
     },
     {
-        "savol": "Matematik amallarni o‘z ichiga olgan kutubxona qanday nomlanadi?",
-        "javob": "Math"
+        "savol": "Variatsiya koeffitsienti?",
+        "javob": "bu populyatsiyaning alohida birliklarida xususiyat qiymatining farqi"
     },
     {
-        "savol": "Android Studioda sozlamalarga kirish ketma-ketligi qanday?",
-        "javob": "File » Settings"
+        "savol": "Palata usuli qanday xolda ishlatiladi?",
+        "javob": "maqsadli funktsiya sifatida guruh ichidagi kvadratik og’ishlar yig’indisi ishlatiladi"
     },
     {
-        "savol": "Toast sinfining maqsadi nima?",
-        "javob": "Ma'lum vaqtdan keyin xabarnomani ko‘rsatish uchun foydalaniladi."
+        "savol": "Masofa yoki o‘xshashlik matritsasini ifodalash uchun qaysi usuldan foydalaniladi?",
+        "javob": "Dendogrammalar"
     },
     {
-        "savol": "Fon rangi qaysi atribut orqali o‘rnatiladi?",
-        "javob": "android:background=\"#E3254B\""
+        "savol": "Har bir obyekt bir nuqtali klaster sifatida qaraladi? Qaysi uslubda?",
+        "javob": "Maksimal mahalliy masofa usuli"
     },
     {
-        "savol": "… buttonning maxsus turi hisoblanib, ikki hil holatda bo‘lishi mumkin: checked yoki unchecked.",
-        "javob": "CheckBox"
+        "savol": "Centroid usuliga berilgan to’g’ri tarifni belgilang?",
+        "javob": "Ikki klaster orasidagi masofa ushbu klasterlarning markazlari (o‘rtachalari) orasidagi Evklid masofasi sifatida aniqlanadi"
     },
     {
-        "savol": "Quyidagi dialog oynalaridan qaysi biri Android tomonidan qo‘llab-quvvatlanadi?",
-        "javob": "AlertDialog"
+        "savol": "Klaster tahlili birinchi marta qaysi sohada qo’llanilgan?",
+        "javob": "sotsiologiyada"
     },
     {
-        "savol": "Qaysi MBBT avtomatik ravishda Android tomonidan taqdim etiladi?",
-        "javob": "SQLite"
+        "savol": "Korrelyatsiya koeffitsientlari matematik statistikada ikkita tasodifiy o‘zgaruvchilar orasidagi bog’lanishning mustahkamligining umumiy qabul qilingan tavsifidir. Qaysi baholash turiga berilagn tarif?",
+        "javob": "Korrelyatsiyalarni baholash"
     },
     {
-        "savol": "TableLayout  - oynasi jadval qatorini hosil qilish uchun qaysi  elementdan foydalaniladi?",
-        "javob": "TableRow"
+        "savol": "Medel qurish jarayoni nechta bosqichda amalga oshiriladi?",
+        "javob": "4"
     },
     {
-        "savol": "Android Studioda kiritilgan matnni kursiv ko‘rinishiga o‘tkazish qaysi buyrug‘i to‘g‘ri kiritilgan qatorni belgilang?",
-        "javob": "android:textStyle=\"italic\""
+        "savol": "Model qurishni 1-bosqichiga berilgan tarifni toping?",
+        "javob": "asl obyekt haqida ma'lum bilimlarning mavjudligininazarda tutadi"
     },
     {
-        "savol": "Obyekt gorizontal uzunligini (kengligini) sozlash uchun qaysi atributga murojaat qilinadi?",
-        "javob": "width"
+        "savol": "tananing holatini qanday parametr bilan aniqlash mumkin bular…?",
+        "javob": "tizimning ishlash darajasi, tartibga solish mexanizmlarining kuchlanish darajasi, funksional zaxira  tizimning ishlash darajasi, tartibga solish mexanizmlarining kuchlanish darajasi, umumiy zaxira"
     },
     {
-        "savol": "Komponentaning tashqi chegarasida bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
-        "javob": "margin"
+        "savol": "Prognoz obyekti…?",
+        "javob": "sog’lom organizmning turli xil ekologik ta’sirlarga moslashish jarayonidagi holati"
     },
     {
-        "savol": "Komponentaning ichki chegarasida bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
-        "javob": "padding"
+        "savol": "replikatsiya nima?",
+        "javob": "ko‘payish qobiliyat  tashqi muhit bilan metabolizm va energiyaning mavjudligi"
     },
     {
-        "savol": "Obyekt nom berish uchun qaysi atributga murojaat qilinadi?",
-        "javob": "text"
+        "savol": "metabolizm nima?",
+        "javob": "tashqi muhit bilan metabolizm va energiyaning mavjudlig"
     },
     {
-        "savol": "…– bu komponentalarni ma’lum o‘lchamlar va oraliqlar asosida joylashtirish imkoniyatini yaratadi.",
-        "javob": "AbsoluteLayout"
+        "savol": "Bioinformatika  qanday fan?",
+        "javob": "biologik ko‘rsatkichlarni ifodalashda foydalaniladigan usullar va dasturlarni ishlab chiquvchi fan"
     },
     {
-        "savol": "… buttonga o‘xshash vidjet bo‘lib, rasmni tugma sifatida ishlatish mumkin.",
-        "javob": "ImageButton"
+        "savol": "… yilda niderland nazariyotchi biologi Polina Hogeveg va Ben Hesper biotik tizimdagi informatsion jarayonlarni tadqiq etish davomida “bioinformatika” degan terminni qo‘llagan?",
+        "javob": "1970"
     },
     {
-        "savol": "Android Studioda brauzerlarni integratsiya qilish ketma-ketligi qanday?",
-        "javob": "File » Settings » Tools » Web Browsers"
+        "savol": "Molekulyar biologik tadqiqotlar natijalarini saqlaydigan birlamchi ma’lumotlar bazalari keltirilga qatorni toping?",
+        "javob": "Genbank, EMBL, DDBJ, SWISS-PROT"
     },
     {
-        "savol": "Android Virtual Device (AVD) ishga tushirish tartibini tanlang?",
-        "javob": "AVD-ni ikki marta bosiladi yoki Start bosiladi; Ishlayotgan emulyatorni to‘xtatish uchun o‘ng tugma bosiladi va Stop yoki Menu » Stop ketma ketligi"
+        "savol": "Kompozit ma’lumotlar bazalari keltirilga qatorni toping?",
+        "javob": "NRDB, OWL, GO"
     },
     {
-        "savol": "Android Studioda kod muharriridagi shriftni o‘zgartirish ketma-ketligi qanday?",
-        "javob": "File » Settings » Editor » Font » Size"
+        "savol": "Ma’lumotlar bazasini to‘ldirish mexanizmiga ko‘ra nechta qismga bo‘lish mumkin?",
+        "javob": "3"
     },
     {
-        "savol": "…- bu komponentalarni bitta qatorga (gorizontal) yoki ustun (vertikal)ga joylashtirish uchun ishlatiladi.",
-        "javob": "LinearLayout"
+        "savol": "SWISS-PROT qanday tipdagi malumotlar bazasi ?",
+        "javob": "nazorat qilinadigan ma’lumotlar bazalari"
     },
     {
-        "savol": "… - komponentalarning jadval asosida joylashuvidir.",
-        "javob": "TableLayout"
+        "savol": "Genblank ma’lumotlar bazasida berilgan obyektning boshqa ma’lumotlar bazalaridagi raqamlari (identifikatorlari) uchun qanday tavsiflar xarakterli;",
+        "javob": "ACCESSION"
     },
     {
-        "savol": "Android Studioda mantiqiy ma’lumotlar qaysi tip orqali e’lon qilinadi?",
-        "javob": "Boolean"
+        "savol": "Genblank ma’lumotlar bazasida manba organizmni to‘liq taksonomik aniqlash uchun qanday tavsiflar xarakterli;",
+        "javob": "ORGANIZM"
     },
     {
-        "savol": "Android Studioda yangi plagin o‘rnatish ketma-ketligi qanday?",
-        "javob": "File » Settings »Plugins » Search & Install"
+        "savol": "PDB , SCOP va CATH ma'lumotlar bazalari qanday fayllari bilan bog'liq ma'lumotlar bazalari.",
+        "javob": "Protein tuzilishi"
     },
     {
-        "savol": "… - komponentalarning jadval asosida joylashuvidir.",
-        "javob": "TableLayout"
+        "savol": "Statviwe paketi asosan qanday turdagi ma’lumotlar bilan ishlaydi.",
+        "javob": "electron jadvallar va grafik"
     },
     {
-        "savol": "Android Studioda CheckBox tugmasini aktiv holati to‘g‘ri keltirilgan qatorni belgilang?",
-        "javob": "android:checked=\"true\""
+        "savol": "IMSL paketi kutubxonasida asosan qaysi dasturlash tillaridan foydalanilgan",
+        "javob": "Fortran 77 va C"
     },
     {
-        "savol": "Komponentaning ichki yuqori chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
-        "javob": "paddingTop"
-    },
-    {
-        "savol": "Android Studioda yaratilgan ilovalni .apk formatga o‘tkazish ketma-ketligi qanday?",
-        "javob": "Build » Build bundle » Build APK"
-    },
-    {
-        "savol": "Komponentaning tashqi chap chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
-        "javob": "marginLeft"
-    },
-    {
-        "savol": "…- activity foydalanuvchi tomonidan ishlatilayotganda chaqiriladi.",
-        "javob": "onResume()"
-    },
-    {
-        "savol": "LinearLayout bu-…",
-        "javob": "komponentalarni bitta qatorga (gorizontal) yoki ustun (vertikal)ga joylashtirish uchun ishlatiladi."
-    },
-    {
-        "savol": "…- activity foydalanuvchiga ko‘rinmay qolganida chaqiriladi",
-        "javob": "onStop()"
-    },
-    {
-        "savol": "Komponentaning tashqi o‘ng chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
-        "javob": "marginRight"
-    },
-    {
-        "savol": "Komponentaning ichki chap chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
-        "javob": "paddingLeft"
-    },
-    {
-        "savol": "Android Studioda kiritilgan matn qalinligini sozlash to‘g‘ri kiritilgan qatorni belgilang?",
-        "javob": "android:textStyle=\"bold\""
-    },
-    {
-        "savol": "DataPicker foydalanuvchiga quyidagilarni amalga oshirishga imkon beradi:",
-        "javob": "Sanani belgilash"
-    },
-    {
-        "savol": "Android Studioda ochiq turgan loyihani yopish ketma-ketligi qanday?",
-        "javob": "File » Close"
-    },
-    {
-        "savol": "…-TextView ning qo‘shimcha imkoniyatli turi hisoblanib, foydalanuvchi ushbu komponenta orqali ma’lumot kiritishi mumkin.",
-        "javob": "EditText"
-    },
-    {
-        "savol": "Android Studioda matnga rang berish qaysi atribut orqali o‘rnatiladi?",
-        "javob": "android: textcolor"
-    },
-    {
-        "savol": "TimePickerDialog foydalanuvchiga quyidagilarni amalga oshirishga imkon beradi:",
-        "javob": "Vaqtni tanlash"
-    },
-    {
-        "savol": "Android Studioda mavjud loyihani ochish ketma-ketligi to‘g‘ri keltirilgan javobni belgilang?",
-        "javob": "File » Open"
-    },
-    {
-        "savol": "Obyekt vertikal uzunligini sozlash uchun qaysi atributga murojaat qilinadi?",
-        "javob": "height"
-    },
-    {
-        "savol": "Android ilovasida testlarni yaratish uchun qanday paket ishlatiladi?",
-        "javob": "test"
-    },
-    {
-        "savol": "Funksiya o‘zi chaqirilgan moduldan qabul qilib oladigan qiymatlar nima deb ataladi?",
-        "javob": "argument"
-    },
-    {
-        "savol": "Android Studioda yangi loyiha yaratish ketma-ketligi to‘g‘ri keltirilgan javobni belgilang",
-        "javob": "File » New » New Project"
-    },
-    {
-        "savol": "MainActivity.java faylidagi \"button\" ga murojaat qilish uchun activity_main.xml dagi tugma uchun qanday funktsiya yozilgan?",
-        "javob": "android: id = \"@ + id / button\""
-    },
-    {
-        "savol": "Matn qalinligini sozlash uchun qaysi atributga qiymat beriladi?",
-        "javob": "android:textStyle"
-    },
-    {
-        "savol": "Android Studioda boshqa dasturlash muharriri (IntellijIdea, VSCode, …) da yaratilgan loyihani import qilish ketma-ketligi to‘g‘ri keltirilgan javobni belgilang",
-        "javob": "File » New » Import Project"
-    },
-    {
-        "savol": "Matnni o‘rtaga tekislash uchun textAlign atributiga qanday qiymat beriladi?",
-        "javob": "center"
-    },
-    {
-        "savol": "MainActivity.java faylidagi \"TextView\" ga matn kiritish uchun activity_main.xml dagi tugma uchun qanday funktsiya yozilgan?",
-        "javob": "android: text = \"Salom\""
-    },
-    {
-        "savol": "CheckBox sinfining asosiy usullari qanday?",
-        "javob": "public boolean isChecked (), public void setChecked (boolean status)"
-    },
-    {
-        "savol": "Android Studioda Button tugmasi bosilganda Buttonni ishga tushuvchi buyruq to‘g‘ri keltirilgan qatorni toping?",
-        "javob": "android:onClick"
-    },
-    {
-        "savol": "…-dastur birinchi marta ishga tushganda activity ni  chaqiradi.",
-        "javob": "onCreate()"
-    },
-    {
-        "savol": "Android Studioda komponentaning ichki o‘ng chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
-        "javob": "android:paddingRight"
-    },
-    {
-        "savol": "…- activity to‘xtatilgan vaqtda chaqiriladi.",
-        "javob": "onDestroy()"
-    },
-    {
-        "savol": "Komponentaning tashqi yuqori chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
-        "javob": "marginTop"
-    },
-    {
-        "savol": "…- activity natijasi foydalanuvchiga ko‘ringanda chaqiriladi.",
-        "javob": "onStart()"
-    },
-    {
-        "savol": "Android Studioda oxirgi bir nechta loyihalarni ochish ketma-ketligi to‘g‘ri keltirilgan javobni belgilang?",
-        "javob": "File » Open recent"
-    },
-    {
-        "savol": "…- joriy activity faoliyati vaqtinchalik to‘xtatilib boshqa activity faollashtirilganda chaqiriladi.",
-        "javob": "onPause()"
-    },
-    {
-        "savol": "Android Studioda kiritilgan matnni o‘lchamini o‘gartirish uchun qaysi atributdan foydalaniladi?",
-        "javob": "android:textSize=\"25dp \""
-    },
-    {
-        "savol": "Android Studioda ImageView komponentasiga rasm kiritish buyrug‘i to‘g‘ri kiritilgan qatorni belgilang?",
-        "javob": "android:src=\"@drawable/circle\""
-    },
-    {
-        "savol": "Androidda Google Maps ximatidan foydalanish uchun qaysi kutubxonadan foydalaniladi?",
-        "javob": "android.gms.maps.MapFragment"
-    },
-    {
-        "savol": "Android Studio dasturida asosan matnli ma’lumotlar bilan ishlovchi .xml fayli qaysi?",
-        "javob": "strings.xml"
-    },
-    {
-        "savol": "android:layout_below=\"@+id/imageView\"  ushbu buyruq qanday amalni bajaradi?",
-        "javob": "Kiritiladigan komponentalarni imageView komponentasidan keyin (pastki qismdan) joylashtiradi."
-    },
-    {
-        "savol": "Strings.xml fayliga ilova nomi to‘g‘ri kiritilgan qatorni toping?",
-        "javob": "<string name=\"app_name\">Laboratoriya_Ishi_1</string>"
-    },
-    {
-        "savol": "Android Studio da asosan java kodlari bilan ishlovchi fayli qaysi qatorda keltirilgan?",
-        "javob": "MainActivity.java"
-    },
-    {
-        "savol": "Button tugmasini ekranning chap qismidan joylashtirish uchun qaysi atributdan foydalaniladi?",
-        "javob": "android:layout_ alignLeft"
-    },
-    {
-        "savol": "Android Studio dasturida matnga link orqali rang berish uchun qaysi atributdan foydalaniladi?",
-        "javob": "android:textColorLink"
-    },
-    {
-        "savol": "Android Studio dasturida asosan ranglari bilan ishlovchi .xml fayli qaysi?",
-        "javob": "colors.xml"
-    },
-    {
-        "savol": "LinearLayout ning qaysi atributi orqali komponentalarni bitta qatorga (gorizontal) yoki ustun (vertikal)ga joylashtirish mumkin?",
-        "javob": "android:orientation"
-    },
-    {
-        "savol": "…- activity to‘xtatilgan vaqtda chaqiriladi.",
-        "javob": "onRestart()"
+        "savol": "IMSL asosan qanday bo'limdan iborat?",
+        "javob": "Matematik / Kutubxona va Stat /  Kutubxona"
     }
 ]
