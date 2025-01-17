@@ -1,626 +1,942 @@
 [
     {
-        "savol": "Bioinformatika bu …………….",
-        "javob": "Biologik ko‘rsatkichlarni ifodalashda foydalaniladigan usullar va dasturlarni ishlab chiquvchi fan;"
+        "savol": "Кompyuterli ko’rish nimа?",
+        "javob": "Ахbоrоt vа multimediа vоsitаlаri yordаmidа mаshinаli ko’rish, nаzоrаt qilish, ulаrni qаytа ishlаsh teхnоlоgiyalаr mаjmuаsi."
     },
     {
-        "savol": "Bioinformatika termini dastlab kimlar tamonidan qo’llangan?",
-        "javob": "Polina Hogeveg va Ben Hesper;"
+        "savol": "“Кompyuterli ko’rish” fаni nimаni o’rgаnаdi?",
+        "javob": "tаsvirlаrdаn ахbоrоtni оlish vа ulаrni qаytа ishlаydigаn sun’iy tizimlаr yarаtish nаzаriyasi vа teхnоlоgiyasini o’rgаnаdi."
     },
     {
-        "savol": "Bioinformatika termini fanda birinchi bor qachon qo’llangan edi.",
-        "javob": "1970-yil;"
+        "savol": "Vidyоtаsvir nimа?",
+        "javob": "tаsvirlаr ketmа-ketligidаn qurilgаn tаsvir ko’rinishidаgi shаkllаr to’plаmi."
     },
     {
-        "savol": "Bioinformatika kompyuter modellashtirish yordamida hech bo‘lmaganda oqsil strukturasi uzoqroq; o‘xshash ketma-ketligi ma’lum bo‘lgan holatlarda ……………….yasashda yordam beradi.",
-        "javob": "oqsilning fazoviy modelini"
+        "savol": "Hоzirgi kundа mаshinаli ko’rish аlgоritmlаri quyidаgi yo’nаlishlаrdа keng qo’llаnilib kelmоqdа:",
+        "javob": "izlаsh tizimidа, timsоlni аniqlаsh vа qаytа ishlаsh, tibbiy tаshhis qo’yish jаrаyonlаridа, biоinfоrmаtikаdа, iqtisоdiy jаrаyonlаrdа qo’llаnilib kelmоqdа."
     },
     {
-        "savol": "………..qurilmasi biotibbiyot va fiziologik tarkibdagi ma’lumotlarni elektron qurilma signaliga aylantiradi",
-        "javob": "pikap"
+        "savol": "Кompyuterli ko’rish tizimlаrigа misоllаr",
+        "javob": "Jаrаyonni bоshqаrish tizimlаri; Videо kuzаtuv tizimlаri; Ахbоrоtni bоshqаrish tizimlаri; Оb’ektlаr yoki аtrоf-muhitni mоdellаshtirish tizimlаri; O’zаrо bоg’liq tizimlаr; Тo’ldirilgаn vоqelik tizimlаri; Аqlli kаmerаlаr."
     },
     {
-        "savol": "………….predmetlariga mikroorganizmlar, o‘simliklar, hayvonlar va inson genlari ularning maxsulotlari ma’lumotlar ba’zasi va ularning annotatsiyalari kiradi",
-        "javob": "Gen ontologiyasi"
+        "savol": "Кompyuterli ko’rish biоlоgik ko’rishdаn fаrqi -",
+        "javob": "Кompyuterli ko’rish uskunаviy vа dаsturiy vоsitаlаr оrqаli аmаlgа оshаdigаn ko’rish tizimi."
     },
     {
-        "savol": "Gen ontologiya loyihasining maqsadi bu…….",
-        "javob": "barcha javoblar to’g’ri"
+        "savol": "Кompyuterli ko’rishning bo’limlаrigа quyidаgilаr kirаdi -",
+        "javob": "hаrаkаtni kuzаtish, hоdisаlаrni аniqlаsh, timsоllаrni аniqlаsh, tаsvirlаrni tiklаsh."
     },
     {
-        "savol": "Gen ontologiya loyihasining vazifasi bu…….",
-        "javob": "barcha organizmlarning genlarini va ularning maxsulotlarini vazifalari, funksiyalari, strukturasini va amaldagi ontologik atamalarni yaratishdan iborat"
+        "savol": "Кompyuterli ko’rish tizimi quyidаgi turdаgi rаqаmli tаsvirlаr bilаn ishlаydi:",
+        "javob": "nimrаng tаsvir (kulrаng  tusli tаsvirlаr); ikkilik tаsvirlаr; indekslаngаn tаsvirlаr; rаngli tаsvirlаr (RGB)."
     },
     {
-        "savol": "Gen ontologiyaga qachon asos solingan",
-        "javob": "1998-yil;"
+        "savol": "Кompyuterli ko’rish tizimidа rаngli tаsvirlаr qаndаy ko’rinishdа bo’lаdi?",
+        "javob": "rаngli tаsvirlаr   ko’rinishdаgi mаtrisа, ya’ni mоs rаvishdа qizil (Red), yashil (Green) vа ko’k (Blue) tuslаrning qiymаti ko’rinishidа ifоdаlаnаdi."
     },
     {
-        "savol": "2008-yil yanvar holatiga ko‘ra, gen ontologiya dasturi turli xil biologik organizmlarda qo‘llaniladigan ……… dan ortiq terminlarini o‘z ichiga oladi.",
-        "javob": "24500;"
+        "savol": "Кompyuterli ko’rish tizimidа rаngli tаsvirlаr qаndаy ko’rinishdа bo’lаdi?",
+        "javob": "Uch tusdаgi tаsvirlаr mоs o’rindаgi qiymаtlаr to’plаmidаn rаngli tаsvir tusi hоsil bo’lаdi."
     },
     {
-        "savol": "2011-yil sentyabr holatiga ko‘ra, gen ontologiya dasturi turli xil biologik organizmlarda qo‘llaniladigan ……… dan ortiq terminlarini o‘z ichiga oladi.",
-        "javob": "33000;"
+        "savol": "Кompyuterli ko’rish tizimidа tаsvirlаr tusi qiymаti intervаli -",
+        "javob": "Qiymаtlаr [0,1] yoki [0,255] intervаldа аniqlаnаdi."
     },
     {
-        "savol": "2013-yil sentyabr holatiga ko‘ra, gen ontologiya dasturi turli xil biologik organizmlarda qo‘llaniladigan ……… dan ortiq annotatsiyalarni o‘z ichiga oladi.",
-        "javob": "96 mln"
+        "savol": "Кompyuterli ko’rish tizimidа rаngli tаsvirlаrning bir piksel  hаjmi -",
+        "javob": "Таsvirning bir tusdаgi rаng qiymаti 8 bit bo’lib, RGB rаngli tаsvir dаrаjаsi 24 bitgа teng."
     },
     {
-        "savol": "……..fani turli tashqi ta’sirlar ostida sodir bo‘luvchi odam va hayvonlarning mexanik xarakatini o‘rganadi",
-        "javob": "Biomexanika"
+        "savol": "Rаngli tаsvirning HSV mоdeli -",
+        "javob": "Rаngli tаsvirning HSV mоdeldаn fоydаlаnish qulаy bo’lib, uning qiymаtlаri insоn ko’rish tizimi qаbul qilаdigаn rаnglаr mаjmuidаn ibоrаt."
     },
     {
-        "savol": "Biomexanika fani bu-…………",
-        "javob": "turli tashqi ta’sirlar ostida sodir bo‘luvchi odam va hayvonlarning mexanik xarakatini o‘rganadi"
+        "savol": "Rаngli tаsvirning HSV mоdeli – bu",
+        "javob": "HSV (ingliz so’zlаridаn ibоrаt. Hue, Saturation, Value) — rаng mоdeli."
     },
     {
-        "savol": "Biomexanika usullarini turlarga ajratishimiz mumkin",
-        "javob": "tibbiy va mexanik"
+        "savol": "Rаngli tаsvirning HSV mоdelidа Hue — rаng tusi qiymаtining аniqlаnish intervаli -",
+        "javob": "Hue — rаng tusi, (mаsаlаn, qizil, yashil, pushti rаng). Uning qiymаti 0°—360° gаchа o’zgаrаdi, bа’zаn 0—100 yoki 0—1 gаchа bo’lgаn qiymаtlаrdа ifоdаlаnаdi."
     },
     {
-        "savol": "Mexanika nuqtai nazaridan modellashtirish bu …….. dir",
-        "javob": "raqamli usullar"
+        "savol": "Rаngli tаsvirning HSV mоdelidа Saturation — rаng tusi qiymаtining аniqlаnish intervаli -",
+        "javob": "Saturationning qiymаti 0—100 yoki 0—1 gаchа bo’lgаn qiymаtlаrdа ifоdаlаnаdi."
     },
     {
-        "savol": "……….bu - o‘rganilayotgan obyektning sifat belgilarini, shuningdek, tajribalar natijasida olingan miqdoriy xususiyatlarni aniqlashni o‘z ichiga oladi",
-        "javob": "modellashtirish"
+        "savol": "Rаngli tаsvirning HSV mоdelidа Value — rаng tusi qiymаtining аniqlаnish intervаli -",
+        "javob": "Value — rаng tusining qiymаti 0—100 yoki 0—1 gаchа bo’lgаn qiymаt-lаrdа ifоdаlаnаdi."
     },
     {
-        "savol": "Biotibbiy axborotni yig’ish, qayta ishlash, saqlash, uzatish, texnologiya va biologik ma’lumotlarni sharhlashni …….deb atash mumkin",
-        "javob": "Bioinformatika fan predmeti"
+        "savol": "Mаshinаli ko’rish tizimi quyidаgilаrdаn ibоrаt:",
+        "javob": "rаqаmli kаmerаlаr, tаsvirlаrni qаytа ishlаsh uchun dаsturiy vоsitаlаr; zаmоnаviy prоsessоr; tаsvirlаrni qаytа ishlаsh uchun yarаtilаdigаn dаsturlаr mаjmui; аqlli kаmerаlаr; mаxsus yoritish uskunаlаri;"
     },
     {
-        "savol": "Biomexanikani o‘rganishdan maqsad bu-………….",
-        "javob": "biologik obyektlar va tizimlar modellarini yaratishda, ularga tegishli kattaliklar qiymatlarini sifat va miqdor jixatidan baholashda mexanika qonunlaridan foydalana olish qobiliyatiga ega bo‘lish"
+        "savol": "Tаsvirlаrgа qаytа ishlаsh uchun dаsturiy vоsitаlаr to’g’ri ko’rsаtilgаn jаvоbni аniqlаng;",
+        "javob": "Matlab, OpenCV pаketlаri"
     },
     {
-        "savol": "Biomexanika bu-………….",
-        "javob": "mexanika modellari va usullari asosida tirik to‘qimalarning, alohida a’zolar va tizimlarning yoki umuman organizmning mexanik xususiyatlarini, shuningdek ularda sodir bo‘ladigan mexanik hodisalarni o‘rganadi"
+        "savol": "Matlab dа quyidаgi kоdni ishgа tushirish nаtijаsidа nimа sоdir bo’lаdi? >> I = double(imread('cameraman.tif'))/255; >> J = 1 - I;",
+        "javob": "Jоriy tаsvir skrеmblyasiyasi sodir bo’ladi."
     },
     {
-        "savol": "Biomexanikani o‘rganishdan maqsad bu-………….",
-        "javob": "mexanika, biologiya va tibbiyotni rivojlantirish uchun tadqiqot natijalarini, shu jumladan diagnostika maqsadlarida qo‘llash, to‘qimalar va organlarning o‘rnini bosuvchi moddalarni yaratish, tirik obektlardagi jarayonlarga ta’sir qilish usullarini ishlab chiqish, tahlil qilish usullarini yaratishdir"
+        "savol": "Stеrеоkаmеrаlаr – bu",
+        "javob": "Ikki yoki undаn оrtiq оb’еktivgа egа bo’lgаn kаmеrаlаr."
     },
     {
-        "savol": "Birinchi guruhning funktsional diagnostikasining biosignallari ni ko’rsating: 1) elektrokardiogramma, 2) elektroensefalogramma, 3) puls oksimetriyasi, 4) stabilografik signal, 5) nutq signali, 6) reografik signal",
-        "javob": "1,2,4,5"
+        "savol": "Stеrеоkаmеrаlаr vаzifаsi nimа?",
+        "javob": "Оb’еktlаrning uch o’lchоvli tаsvirini hоsil qilish."
     },
     {
-        "savol": "Ikkinchi guruhning funktsional diagnostikasining biosignallari ni ko’rsating: 1) fotopletismografik signal, 2) elektroensefalogramma, 3) puls oksimetriyasi, 4) stabilografik signal, 5) nutq signali, 6) reografik signal, 7) lazerli doppler flowmetri",
-        "javob": "1,3,6,7"
+        "savol": "Stеrеоkаmеrаlаr оb’еktivlаri o’rtаsidаgi mаsоfа qаnchа?",
+        "javob": "64 mm"
     },
     {
-        "savol": "Funfsional diagnostikada biosignallar nechta guruhga ajratiladi",
-        "javob": "2"
+        "savol": "Stеrеоkаmеrаlаrdаn bоshqа оddiy kаmеrаdа uch o’lchоvli tаsvir hоsil qilish mumkinmi?",
+        "javob": "Ikki bir оb’еktivkаli kаmеrаdаn ikki yoqlаmа оlingаn tаsvirdаn uch o’lchоvli tаsvir hоsil qilish mumkin."
     },
     {
-        "savol": "……………bu-makon va vaqtning ma’lum chegaralarida birgalikda olingan va o‘xshashlik va farq belgilariga ega bo‘lgan nisbatan bir hil elementlar to‘plamidan iborat guruh",
-        "javob": "statistik umumiylik"
+        "savol": "Stеrеоsistеmаning vаzifаsi?",
+        "javob": "Аtrоf-muhitning uch o’lchоvli virtuаl mоdеlini yarаtishdan iborat."
     },
     {
-        "savol": "Statistik tadqiqotlar nechta guruhga ajratiladi",
-        "javob": "2"
+        "savol": "Stеrеоtаsvirlаrni qаytа ishlаsh nаtijаsidа qаndаy misоllаrni kеltirish mumkin?",
+        "javob": "Оb’еktgаchа bo’lgаn mаsоfаni аniqlаsh, vidеоtаsvirdаgi оb’еkt tеzligini аniqlаsh mumkin."
     },
     {
-        "savol": "Statitik tadqiqot turlari to’g’ri ko’rsatilga javobnmi aniqlang",
-        "javob": "umumiy populyatsiya va tanlab olish"
+        "savol": "Ikki o’lchоvli tаsvirlаr kооrdinаtаlаridаn stеrео-tаsvir kооrdinаtаlаrigа o’tish:",
+        "javob": "Z= (b*d/)f   X=Z*(xR/f)  Y=Z(yR/f)"
     },
     {
-        "savol": "Tanlangan populyatsiya shunday shakllantiriladiki, dastlabki populyatsiyaning barcha elementlari kuzatuv bilan qamrab olinishi uchun teng imkoniyat yaratiladi. 2. Namuna  hodisani to‘g’ri va to‘liq aks ettirishi kerak, ya’ni xuddi butun aholi o‘rganilgandek, hodisa haqida bir xil fikrni berish. Bular…….dir",
-        "javob": "Tanlangan populyatsiya bo‘yicha statistik tadqiqot o‘tkazish xususiyatlari"
+        "savol": "Оb’еktni аniqlаsh tехnоlоgiyasi - bu",
+        "javob": "ob’еkt chеgаrа chizig’ini аniqlаshdan iborat."
     },
     {
-        "savol": "Statistik aholini shakllantirish usullarini ko’rsating: 1. Umumiy tanlash, 2. Tasodifiy tanlash, 3. Mexanik tanlash, 4. Tipik (tipologik) tanlash, 5. Ketma-ket tanlash, 6. Fizik tanlash, 7. Kombinatsiyalangan usullar",
-        "javob": "2,3,4,5,7"
+        "savol": "Оb’еktni аniqlаsh turlаri:",
+        "javob": "Nuqtаli, chiziqli, chеgаrаli."
     },
     {
-        "savol": "Statistik ahalini shakillantishishining nechta usuli mavjud",
-        "javob": "5"
+        "savol": "Таsvirdаgi оb’еkt chеgаrаsi dеgаndа nimа tushunilаdi?",
+        "javob": "ob’еkt qiymаtlаri mаtrisаsidаgi o’zgаrishgа egа bo’lgаn qiymаtlаr kеtmа-kеtligidаn hоsil bo’lаdigаn chiziq."
     },
     {
-        "savol": "Statistik aholining elementlari bir-biridan farq qiladigan belgilar ro‘yxatga olinishi kerak va bu buxgalteriya belgilari deb ataladi",
-        "javob": "Buxgalteriya belgilari"
+        "savol": "Quyidаgi misоldа chеgаrа qаеrdа jоylаshgаn?",
+        "javob": "4 vа 5 piksеllаr оrаlig’idа"
     },
     {
-        "savol": "Statistik tadqiqot predmeti bu-……….",
-        "javob": "aholi salomatligi, tibbiy yordamni tashkil etish, sog’likka ta’sir etuvchi ekologik omillar va boshqalar"
+        "savol": "Chеgаrа аniqlаsh оddiy usuli qаysi jаvоbdа ko’rsаtilgаn?",
+        "javob": "Маksimum qiymаtni аniqlаsh usuli, nоllаrni аniqlаsh usuli."
     },
     {
-        "savol": "Statistik tadqiqotning qaysi bosqichida ¬maqsad aniqlanadi, kuzatish obyekti va birligi belgilanadi, ¬asboblar ¬va kuzatish dasturi ishlab chiqiladi?",
-        "javob": "Statistik kuzatishni tayyorlash"
+        "savol": "Chеgаrа аniqlаsh usuli qаysi jаvоbdа ko’rsаtilgаn?",
+        "javob": "Кеnni usuli."
     },
     {
-        "savol": "…. bu - kuzatish birligining holatini ¬doimiy ravishda kuzatib boruvchi va ¬unga turli omillar ta'sirining ¬kuchini baholaydigan tizim¬",
-        "javob": "Statistik registr"
+        "savol": "Chеgаrа аniqlаsh usuli qаysi jаvоbdа ko’rsаtilgаn?",
+        "javob": "O’rtа qiymаt usuli: Lx(x,y)=-1/2*L(x-l, y)+0*L(x,y)+1/2 L(x+1, y)"
     },
     {
-        "savol": "Statistik tadqiqotning nechta bisqichi mavjud?",
-        "javob": "5"
+        "savol": "Chеgаrа аniqlаsh Sоbоl  оpеrаtоrini ko’rsаting:",
+        "javob": "Gorizontal, vertical"
     },
     {
-        "savol": "Statistik tadqiqotning birinchi bosqichi bu - …………",
-        "javob": "Tadqiqot rejasi va dasturini tuzish, tadqiqot maqsadi va vazifalarini aniqlash, tadqiqot rejasi va dasturini tuzish, statistik materiallarni umumlashtirish dasturi ishlab chiqish va tashkiliy masalalarni hal qilish"
+        "savol": "TSIBTEni qo’llanilish  sohalari to’g’ri ko’rsatilgan qatorni belgilang.",
+        "javob": "barchasida qo’llanadi."
     },
     {
-        "savol": "Statistik tadqiqotning ikkinchi bosqichi bu - …………",
-        "javob": "Materiallar to‘plami (statistik kuzatish) - o‘rganilayotgan hodisaning alohida holatlarini va ularni tavsiflovchi hisobga olish belgilarini ro‘yxatga olish blankalarida qayd etishdan iborat"
+        "savol": "Tasvir saqlovchilar qatorini belgilang.",
+        "javob": "fotoplenka, qog’oz, termoplastinka;"
     },
     {
-        "savol": "Statistik tadqiqotning uchunchi bosqichi bu - …………",
-        "javob": "Materialni ishlab chiqish, statistik guruhlash va xulosa qilish - kuzatishlar sonini, olingan ma’lumotlarning to‘liqligi va to‘g’riligini tekshirish va aniqlashtirish, xatolarni, takroriy yozuvlarni aniqlash va bartaraf etishdan boshlanadi"
+        "savol": "Tasvir magnit disklarga qanday usulda qayd etildi?",
+        "javob": "diskret;"
     },
     {
-        "savol": "Statistik tadqiqotning to’rtinchi bosqichi bu - …………",
-        "javob": "O‘rganilayotgan hodisaning parametrlarini statistik tahlil qilish, xulosalarni shakllantirish - statistik ko‘rsatkichlarni hisoblash, natijalarning grafik tasviri, dinamikasi, tendentsiyalari va ular o‘rtasidagi munosabatlar o‘rganiladi"
+        "savol": "Saqlagichlarda qayd etilgan tasvir turlari:",
+        "javob": "ko’p qiymatli, kam qiymatli, rangli;"
     },
     {
-        "savol": "Statistik tadqiqotning beshinchi bosqichi bu - …………",
-        "javob": "Olingan natijalarni maqola, ma’ruza, ma’ruza, dissertatsiya va boshqalar shaklida ro‘yxatdan o‘tkazish"
+        "savol": "Chizma, rasm va yozuvlar tasvirning qanday turiga kiradi?",
+        "javob": "kam qiymatli tasvirlar."
     },
     {
-        "savol": "Statistik tadqiqotning qaysi bosqichida olingan natijalarni maqola, ma’ruza, ma’ruza, dissertatsiya va boshqalar shaklida ro‘yxatdan o‘tkazish amalga oshiriladi?",
-        "javob": "5"
+        "savol": "Ko’p qiymatli tasvirlarni ko’rsating.",
+        "javob": "fotosuratlar, tomogramma,  interferogramma;"
     },
     {
-        "savol": "Statistik tadqiqotning qaysi bosqichida o‘rganilayotgan hodisaning parametrlarini statistik tahlil qilish, xulosalarni shakllantirish - statistik ko‘rsatkichlarni hisoblash, natijalarning grafik tasviri, dinamikasi, tendentsiyalari va ular o‘rtasidagi munosabatlar o‘rganiladi?",
-        "javob": "4"
+        "savol": "Tasvirni grafitda qayd etish qanday qayd etish vositasi hisoblanadi?",
+        "javob": "elektroliz;"
     },
     {
-        "savol": "Statistik tadqiqotning qaysi bosqichida materialni ishlab chiqish, statistik guruhlash va xulosa qilish - kuzatishlar sonini, olingan ma’lumotlarning to‘liqligi va to‘g’riligini tekshirish va aniqlashtirish, xatolarni, takroriy yozuvlarni aniqlash va bartaraf etishdan boshlanadi?",
+        "savol": "Havosiz kamerada maxsus saqlovchi yuzasida issiqlik yordamida tasvir hosil qilish usuli:",
+        "javob": "termoplastik;"
+    },
+    {
+        "savol": "Ferrografik usulda tasvirni qayd etish jarayoni:",
+        "javob": "elektr signali orqali magnit kukuniga ishlov berish;"
+    },
+    {
+        "savol": "Tiniqlashtirish, ma’lum bo’laklarini kuchaytirish TSIBTE ni qaysi bosqichiga kiradi?",
+        "javob": "dastlabki ishlov berish;"
+    },
+    {
+        "savol": "Tasvirlarni kompyuter xotirasiga kiritish TSIBTEni qaysi bosqichida amalga oshiriladi?",
+        "javob": "sonli ko’rinishga utkazish."
+    },
+    {
+        "savol": "TSIBTE ning tahlil bosqichi-da qanday amallar bajariladi?",
+        "javob": "parametrlarni o’lchanadi, belgilar aniqlanadi;"
+    },
+    {
+        "savol": "“4 bog’li atrof”ni ko’rsating.",
+        "javob": "(i-1,j),(i+1,j), (i,j+1), (i,j-1);"
+    },
+    {
+        "savol": "“8 bog’li atrof”ni ko’rsating",
+        "javob": "(i+1,j+1),(I,j+1),(i-1, j+1), (j,i-1), (i+1,j),(i-1,j--1), (I,j-1),(i+1,j-1)"
+    },
+    {
+        "savol": "Vertikal va gorizontal qo’shni nuqtalar?",
+        "javob": "(i-1,j),(i+1,j), (i,j+1), (i,j-1);"
+    },
+    {
+        "savol": "Dioganal qo’shni nuqtalar?",
+        "javob": "(i-1,j-1),(i+1, j+1),(i-1,j+1), (i+1,j-1);"
+    },
+    {
+        "savol": "TSIBTE uchun odatda qaysi operatorlar qo’llaniladi?",
+        "javob": "mahalliy, nuqtaviy;"
+    },
+    {
+        "savol": "Mahalliy operatorlar qanday operatorlarga bo’linadi?",
+        "javob": "rekurrent, norekurrent; paralle va ketma-ket;"
+    },
+    {
+        "savol": "Agarda operatorlarning ishlashi uning yo’nalish xususiyatlariga bog’liq bo’lsa u holda bu operator:",
+        "javob": "izotrop;"
+    },
+    {
+        "savol": "Operator iterasiya jarayonida iterasiya natijalaridan foydalansa bu operator:",
+        "javob": "rekurrent;"
+    },
+    {
+        "savol": "Parallel operatorlar qaysi operator usulidan foyda-lanadi?",
+        "javob": "norekurrent;"
+    },
+    {
+        "savol": "Ketma-ket operator qaysi operator usulidan foydalanadi?",
+        "javob": "rekurrent;"
+    },
+    {
+        "savol": "Tasvir sohalarini bir-biridan ajralib turadigan qilib qiymat berish:",
+        "javob": "bir jinsli sohalar yorug’lik farqini oshirish;"
+    },
+    {
+        "savol": "Tasvir sifatini oshirish usullari qatorini belgilang.",
+        "javob": "barcha usullar ishlatiladi."
+    },
+    {
+        "savol": "Mahalliy operator yordamida tasvir sifatini oshirish qaysi usulda qo’llanadi?",
+        "javob": "xalaqitlarni yo’qotish,;"
+    },
+    {
+        "savol": "Furye almashtirish tasvir sifatini oshirishning qaysi usuliga kiadi?",
+        "javob": "unitar almashtirish;"
+    },
+    {
+        "savol": "Halaqitlar hajmiga qarab qo’shqiymatli tasvirlar necha turga bo’linadi?",
+        "javob": "4;"
+    },
+    {
+        "savol": "Ob’yekt konturi deb:",
+        "javob": "uni tashkil qilgan barcha chegaraviy chiziqlar yig’indisi tushuniladi;"
+    },
+    {
+        "savol": "Tasvirning chegara sohasi qanday belgilanadi?",
+        "javob": "yorug’likning keskin o’zgarishi bilan."
+    },
+    {
+        "savol": "Kontur ajratish necha sinfga ajratiladi?",
+        "javob": "3."
+    },
+    {
+        "savol": "Kontur ajratish usullari ko’rsatilgan qator?",
+        "javob": "fazoviy ayirmalash, funksional approksimasiyalash, yuqori chastotali filtrlash;"
+    },
+    {
+        "savol": "Kontur ajratishda yorug’lik funksiyasining hususiy hosilalarini hisoblashga asoslan-gan usul qaysi usul?",
+        "javob": "tasvirlarni fazoviy ayirmalash;"
+    },
+    {
+        "savol": "Kontur ajratishda tasvirga fazoviy chastotalar sohasida ishlov berish usuli?",
+        "javob": "yuqori chastotali filtrlash;"
+    },
+    {
+        "savol": "Kontur ajratishning ayirmalash usulida eng samarali operator qaysi operator?",
+        "javob": "Sobel."
+    },
+    {
+        "savol": "Kontur ajratishning ayirmalash usulida eng past samarali operator qaysi operator?",
+        "javob": "Roberts;"
+    },
+    {
+        "savol": "Tasvirni talqin qilish mumkin bo’lgan bo’laklarga ajratish bu:",
+        "javob": "tasvirni bo’laklash;"
+    },
+    {
+        "savol": "Tasvirni bo’laklashda nechta shartga javob berish lozim?",
+        "javob": "5."
+    },
+    {
+        "savol": "Tasvirlarni bo’laklash yo’nalishlari to’g’ri ko’rsatilgan qator.",
+        "javob": "sohalarni ichki elementlarini nishonlash, soha chegarasini ajratish;"
+    },
+    {
+        "savol": "Tasvirlarni bo’laklash necha xil yo’nalishda olib boriladi?",
+        "javob": "2;"
+    },
+    {
+        "savol": "Tasvirni bo’laklashda sohalarni ichki elementlarini nishonlash usuli necha sinfga bo’linadi?",
+        "javob": "3."
+    },
+    {
+        "savol": "Tasvirni bo’laklashda sohalarni chegarasini ajratish usuli necha sinfga bo’linadi?",
+        "javob": "3."
+    },
+    {
+        "savol": "Tasvirlani bo’laklashda sohalarni ichki elementlarini nishonlash usuli sinflari keltirilgan qatorni ko’rsating.",
+        "javob": "bo’sag’ali ishlov berish, sohalarni o’stirish, sohalarni ayirish-qo’shish;"
+    },
+    {
+        "savol": "Tasvirlani bo’laklashda sohalarni chegarasini ajratish usuli sinflari keltirilgan qatorni ko’rsating.",
+        "javob": "umumiy, mahalliy, izlash;"
+    },
+    {
+        "savol": "Ingichkalashtirish algoritmlari:",
+        "javob": "parallel, ketma-ket;"
+    },
+    {
+        "savol": "Masofa almashtirish algoritmlari:",
+        "javob": "parallel, ketma-ket;"
+    },
+    {
+        "savol": "Skelet olish algoritmi necha bosqichda amalga oshiriladi?",
+        "javob": "3."
+    },
+    {
+        "savol": "Tasvirni tahlil qilish yo’llari:",
+        "javob": "interaktiv va avtomatik."
+    },
+    {
+        "savol": "Ochiq segment ta’rifi tg’o’ri keltirilgan qator:",
+        "javob": "ikki chetida tugallanish nuqtalari bo’lgan;"
+    },
+    {
+        "savol": "Yopiq segment ta’rifi to’g’ri keltirilgan qator:",
+        "javob": "ikki uchida shoxlash nuqtalari bo’lgan;"
+    },
+    {
+        "savol": "Yarim ochiq segment ta’rifi to’g’ri keltirilgan qator:",
+        "javob": "bir uchi shoxlash, br uchi tugallanish nuqtasiga ega bo’lgan."
+    },
+    {
+        "savol": "Xalaqitlarni yo’qotish algoritmi amallari.",
+        "javob": "segmentni izlash, yo’qotish, tiklash;"
+    },
+    {
+        "savol": "Tasvirning biror -bir bo’lagidagi elementlarining fazoviy qurilishi bu:",
+        "javob": "tekstura;"
+    },
+    {
+        "savol": "Teksturaning necha xil turi mavjud?",
+        "javob": "4;"
+    },
+    {
+        "savol": "Tekstura masalalari bilan bog’liq asosiy nechta guruh mavjud?",
+        "javob": "3."
+    },
+    {
+        "savol": "Manba tasvirining elementlar yorug’lik qiymatlari gistogrammasi asosida olinsa teksturaning bu xususiyati:",
+        "javob": "bir o’lchamli;"
+    },
+    {
+        "savol": "Tekston hosil qilish va uni maydon atrofida ma’lum bir qonuniyat asosida joylashtirish bu:",
+        "javob": "teksturani sintez qilish."
+    },
+    {
+        "savol": "Tasvirni iloji boricha sifat ko’rsatkichini o’zgartirmay siqish bu:",
+        "javob": "kodlashtirish;"
+    },
+    {
+        "savol": "Tasvirlarni saqlash va uzatish maqsadida sonli signallarga aylantirish bu:",
+        "javob": "kodlashtirish;"
+    },
+    {
+        "savol": "Tasvirni sifatli ravishda tiklash imkonini beradigan kichik hajmli axborot olish:",
+        "javob": "kodlashtirishdir;"
+    },
+    {
+        "savol": "Impuls kodli modullab kodlashtirish amali.",
+        "javob": "signal diskretlanib, kodlashtiriladi."
+    },
+    {
+        "savol": "Tasvir yorug’lik darajasi oralig’ini siqish:",
+        "javob": "kvantlashdir;"
+    },
+    {
+        "savol": "Tasvirdan olingan funksiyani chiziqlimas (logarifmik, kub ildiz va hokazo) usulda siqish:",
+        "javob": "kvantlashdir;"
+    },
+    {
+        "savol": "Tasvirni Xoffman kodi orqali kodlab uzatish:",
+        "javob": "kodlashtirishning statistik usuli;"
+    },
+    {
+        "savol": "Tasvirning o’zaro takrorlanib keluvchi bir xil qiymatlari ketma-ketligini kodlashti-rish:",
+        "javob": "takrorlanishlarni kod-lashtirish."
+    },
+    {
+        "savol": "Tasvir chiziqlari orasida korelya-siyani oldindan aytish yo’li bilan kamaytirib, kvantlash qadamlarini sintez qilish usuli orqali element-lab kodlashtirish algoritmi:",
+        "javob": "delta modullash;"
+    },
+    {
+        "savol": "Tasvirni almashtirib bajarib kod-lashtirishda hosil bo’lgan sonlar qatori:",
+        "javob": "transformantlar;"
+    },
+    {
+        "savol": "Yaqin nuqtalarni yaqin qiymatlarga ega bo’lishi:",
+        "javob": "statistik ortiqchalik;"
+    },
+    {
+        "savol": "Tasvirda ko’ruvchi tashlab yuborishi mumkin bo’lgan axborot:",
+        "javob": "mazmunan ortiqchalik;"
+    },
+    {
+        "savol": "Tasvir xususiyatlari yig’indisining turli qismidan foydalanish:",
+        "javob": "psixoko’rish ortiqchalik."
+    },
+    {
+        "savol": "Tasvirlarni joylashtirish tartibiga qarab saqlash uslublari berilgan qator.",
+        "javob": "matrisa ko’rinishida, piramida, kvadrantlar daraxti shaklida;"
+    },
+    {
+        "savol": "Tasvirlarni aralash saqlash uslublari berilgan qator.",
+        "javob": "matrisa belgi ko’rini-shida;"
+    },
+    {
+        "savol": "Tasvirlarni tarkibiy tuzilish bo’yicha saqlash uslublari berilgan qator.",
+        "javob": "kontur ko’rinishida, parametrik saqlash, graflar, iyerarxik."
+    },
+    {
+        "savol": "Murakkab tasvirlarni xususiyatlari, elementlari, ularning o’zaro munosabatlari asosida saqlash:",
+        "javob": "tarkibiy tuzulishga qarab saqlash;"
+    },
+    {
+        "savol": "Tasvir saqlash uslublari berilgan qator.",
+        "javob": "joylashtirish tartibiga qarab, aralash, tarkibiy tuzilish bo’yicha;"
+    },
+    {
+        "savol": "Elementlarining mohiyatiga qarab matrisaning vazifasi necha xil?",
+        "javob": "3."
+    },
+    {
+        "savol": "Tasvir bir qancha matrisalarning iyerarxik ko’rinishida saqlansa bu usul:",
+        "javob": "piramida usuli;"
+    },
+    {
+        "savol": "O’zaro iyerarxik munosabat-larni aks ettiruvchi va faqat zarur bo’laklarini izlash, qayta ishlash va tahlil etishni ta’minlovchi ma’lumotlar tarkibiy tuzilishi:",
+        "javob": "kvadratlar daraxti."
+    },
+    {
+        "savol": "Tasvirlardagi ob'yektlar, ularning o’zaro munosabat va shakllari asosida saqlash uslubi:",
+        "javob": "tarkibiy tuzulishga qarab saqlash;"
+    },
+    {
+        "savol": "Tasvir ob'yektlarini ma’lum qonuniyatlar bo’yicha tarti-blash, solishtirib aniqlash, sinflarga ajratish va tutgan o’rnini aniqlash asosida saqlash:",
+        "javob": "tarkibiy tuzulishga qarab saqlash;"
+    },
+    {
+        "savol": "Tasvirlarni bo’linmas ele-ment holiga borguncha bo’lib saqlash uslubi:",
+        "javob": "iyerarxik."
+    },
+    {
+        "savol": "Matrisa-belgi tuzilishi asosida tasvirlarni saqlash.",
+        "javob": "aralash saqlash;"
+    },
+    {
+        "savol": "Tasvirning biror o’ziga xos bo’lgan xususiyati...",
+        "javob": "belgi deyiladi;"
+    },
+    {
+        "savol": "Belgilar necha turga bo’linadi?",
+        "javob": "2;"
+    },
+    {
+        "savol": "Tabiiy belgilar...",
+        "javob": "ko’z  bilan ajratib olinadi;"
+    },
+    {
+        "savol": "Asos belgilar...",
+        "javob": "bevosita manba tasvirdan ajratib olinadi;"
+    },
+    {
+        "savol": "Sun’iy belgilar...",
+        "javob": "maxsus ishlov berish orqali ajratiladi."
+    },
+    {
+        "savol": "Hosila belgilar...",
+        "javob": "asos belgilarni biror ko’rinishga keltirib aniqlanadi;"
+    },
+    {
+        "savol": "Hosila belgilar keltirilgan qator.",
+        "javob": "dispersiya, entropiya;"
+    },
+    {
+        "savol": "Asos belgilar keltirilgan qator.",
+        "javob": "gistogramma, yorug’lik darajasi;"
+    },
+    {
+        "savol": "O’zaro bog’liq bo’lgan nuqtalari soni 9 tadan oshmaydigan va mustaqil axamiyatga ega qismlaga bo’linmaydigan ob’yekt:",
+        "javob": "nuqtaviy ob’yekt;"
+    },
+    {
+        "savol": "Elemetlari soni 9 tadan oshiq bo’lgan va mustaqil qismlarga ajratish mumkin bo’lgan ob'yekt:",
+        "javob": "yuzali ob’yekt."
+    },
+    {
+        "savol": "Diskret egri chiziqni matematik usulda qurishda berilgan nuqtalardan o’tuvchi egri chiziq masalasi...",
+        "javob": "interpolyatsiya masalasi deyiladi;"
+    },
+    {
+        "savol": "Diskret egri chiziqni matematik usulda qurishda nuqtalar yaqinidan o’tuvchisini qurishda egri chiziq masalasi...",
+        "javob": "approksimatsiya masalasi deyiladi;"
+    },
+    {
+        "savol": "r=m tenglama bilan berilgan ko’phad ifodasi...",
+        "javob": "oddiy splayn deyiladi;"
+    },
+    {
+        "savol": "Har bir nuqta o’ziga qo’shni bo’lgan sakkizta element bilan bog’langan bo’lsa u holda ...",
+        "javob": "zanjirli kod hosil bo’ladi;"
+    },
+    {
+        "savol": "Tasvirda bor deb faraz qilingan ob’yektni aniqlash bu ...",
+        "javob": "tasvirda ob'yektni topishdir;"
+    },
+    {
+        "savol": "Funksiyalar juftligini moslashtirish usuli bu:",
+        "javob": "korelyatsion moslashtirish."
+    },
+    {
+        "savol": "Nuqtadan nuqtaga o’tish orqali moslashtirish usuli bu:",
+        "javob": "ketma-ket moslashtirish;"
+    },
+    {
+        "savol": "Tasvirlarni tavsiflash usullari necha turga bo’linadi?",
+        "javob": "2;"
+    },
+    {
+        "savol": "Tasvirni oldingi asl holiga qayta tiklash imkonini beradigan to’liq tavsiflash?",
+        "javob": "sintaksis tavsiflash;"
+    },
+    {
+        "savol": "Teksturani segmentlash o’z ichiga … oladi",
+        "javob": "teksturani ifodalash va segmentlarni chegarasini aniqlovchi bazisni hisoblashni"
+    },
+    {
+        "savol": "Teksturani sintezlash  … yaratishga xizmat qiladi",
+        "javob": "tasvirlarning kichik elementlaridan katta tekstur sohalarni"
+    },
+    {
+        "savol": "Shaklni tekstura orqali aniqlash - bu",
+        "javob": "tasvir teksturasi orqali  sirt yo’nalishi yoki shaklini tiklashdan iborat"
+    },
+    {
+        "savol": "Tasvirning teksturasi odatda … dan iborat.",
+        "javob": "to’g’ri elementlardan tashkil topgan tartiblangan naqshlar"
+    },
+    {
+        "savol": "Tasvirni o’rab turgan ikki chiziqning o’xshashligini … orqali o’lchash mumkin.",
+        "javob": "mos piksellar qiymatlari ayirmasi kvadratlari yig’indisi"
+    },
+    {
+        "savol": "Tasvirning tashqi ko’rinishi koordinatalar sistemasini tanlashdan bog’liq va",
+        "javob": "hamma vaqt ham tekstura sirtda yotganligiga osonlik bilan ishonch hosil qilish mumkin emas"
+    },
+    {
+        "savol": "Agar tekislik kuzatilishi ma’lum bo’lsa, u holda tekstura orqali shaklni tiklash masalasi … keltiriladi",
+        "javob": "tekilikni kameraga nisbatan joylashishini topishga"
+    },
+    {
+        "savol": "Tekstura izotrop deyiladi agarda",
+        "javob": "tekstura elementini toppish ehtimoli shu element orientasiyasiga bog’liq bo’lmasa"
+    },
+    {
+        "savol": "Agar tekstura izotrop deb faraz qilsak, u holda",
+        "javob": "tasvir orqali ham tekis burchakni, ham og’ish burchagini toppish mumkin"
+    },
+    {
+        "savol": "… yordamida tekstura bilan tekislik ortogonal ko’rinishini sintezlash mumkin.",
+        "javob": "koordinatalar sistemasini og’ish burchagiga burab, birorta o’q bo’yicha tekis burchak kosinusicha siqish"
+    },
+    {
+        "savol": "Izotrop tekstura ortogonal proeksiyasi izotrop bo’lmay-di agarda",
+        "javob": "tekislik tasvir tekisligiga parallel bo’lmasa."
+    },
+    {
+        "savol": "Tekislikni ortogonal proeksiyalaganda tekislikning yo’nalishini tiklash",
+        "javob": "mumkin emas"
+    },
+    {
+        "savol": "… uchun Longet-Xiggins munosabati o’rinli",
+        "javob": "Ichki kalibrlangan kameralar"
+    },
+    {
+        "savol": "Tenzor - bu",
+        "javob": "polichiziqli forma bilan o’zaro bog’liqlikda bo’lgan ko’p o’lchovli koeffisientlar massivi"
+    },
+    {
+        "savol": "Grafikadagi tasvirlar necha  xil ko’rinishda bo’ladi?",
+        "javob": "2;"
+    },
+    {
+        "savol": "Ikki o’lchovli grafika qanday nomlanadi?",
+        "javob": "2D;"
+    },
+    {
+        "savol": "plot(x,y) – qanday vektorlarning dekart tekisligidagi grafigini hosil qiladi?",
+        "javob": "x va y"
+    },
+    {
+        "savol": "Uch o’lchovli grafika qanday nomlanadi?",
+        "javob": "3D;"
+    },
+    {
+        "savol": "title (‘‘matn’’) - qanday matn yozadi;",
+        "javob": "grafik tepasiga matn yozadi;"
+    },
+    {
+        "savol": "MATLAB da qanday ma’lumot tiplari ishlatiladi?",
+        "javob": "sonli tip, satrli va simvolli, ob’yektlar;"
+    },
+    {
+        "savol": "MATLAB programma kompleksi nechta asosiy qismdan iborat?",
+        "javob": "5;"
+    },
+    {
+        "savol": "“MATLAB”da aloqa munosabatlari operatorlarini qaysi javobda to`g`ri ko`rsatilgan?",
+        "javob": "(= = != > < >= <=);"
+    },
+    {
+        "savol": "Mantiq operatorlar qaysi javobda to`g`ri ko`rsatilgan?",
+        "javob": "(&& | | !);"
+    },
+    {
+        "savol": "ylabel (‘matn’) - “matn”ni “ y ” o‘qining qaysi tomoniga yozadi;",
+        "javob": "chap;"
+    },
+    {
+        "savol": "OpenCV calcHist funksiyasi qanday amalni bajaradi?",
+        "javob": "Tasvirlarning massivlarini gistogrammalarini yaratish"
+    },
+    {
+        "savol": "OpenCV split funksiyasi qanday amalni bajaradi ?",
+        "javob": "Tasvirni mos platalarga (kanallarga) bo‘lish."
+    },
+    {
+        "savol": "imrotate operatori qanday vazifani bajaradi?",
+        "javob": "Tasvirni buradi."
+    },
+    {
+        "savol": "Qaysi qatorda filtr nomlari keltirilgan?",
+        "javob": "Mediana, o’rama matritsa, erroziya."
+    },
+    {
+        "savol": "Erroziya filtri nima vazifani bajaradi?",
+        "javob": "Tasvirdagi qora sohalarni kuchaytiradi."
+    },
+    {
+        "savol": "Tasvirning ko’k qismlari qanday ajratiladi?",
+        "javob": "i = imread('1.jpg'); b=i(:,:,3)."
+    },
+    {
+        "savol": "Talab qilinayotgan natijaga erishish uchun tasvir piksellariga “ko’paytiriladigan” koeffetsientlar matritsasi qanday nomlanadi?",
+        "javob": "O’rama matritsa."
+    },
+    {
+        "savol": "O’rama matritsa qanday ishlatiladi?",
+        "javob": "Tasvir matritsasiga “ko’paytiriladi”."
+    },
+    {
+        "savol": "Tracking jarayonini manosi nima?",
+        "javob": "Videodagi obyektlarni harakatini kuzatish."
+    },
+    {
+        "savol": "Sobel operatori odatda qanday vazifani bajaradi?",
+        "javob": "Tasvirdagi chegaralarni aniqlashda ishlatiladi."
+    },
+    {
+        "savol": "Quyidagi gistogramma tasvir haqida qanday ma’lumot beradi?",
+        "javob": "Tasvit juda to’q."
+    },
+    {
+        "savol": "rgb2gray operatori qanday vazifani bajaradi?",
+        "javob": "Tasvirni kulrangga aylantiradi."
+    },
+    {
+        "savol": "OpenCVda shape operatori nima vazifani bajaradi?",
+        "javob": "Tasvirni matrisasi o’lchamlarini ko’rsatadi."
+    },
+    {
+        "savol": "OpenCVdagi dtype operatori nima vazifani bajaradi?",
+        "javob": "Tasvirdagi ma’lumotlarni saqlangan tipini keltiradi."
+    },
+    {
+        "savol": "OpenCV da qanday qilib gayil sohadagi bitta piksel olinadi?",
+        "javob": "I = i[x,y,2]."
+    },
+    {
+        "savol": "OpenCV muxitida segmentatsiya operatsiyalarini bajarish threshold funksiyasi yordamida amalga oshiriladigan nechta segmentatsiya turi mavjud?",
+        "javob": "4."
+    },
+    {
+        "savol": "Smoothing funsiyasi qanday vazifani bajaradi?",
+        "javob": "Yumshatish."
+    },
+    {
+        "savol": "Blurring funsiyasi qanday vazifani bajaradi?",
+        "javob": "Xiralashtirish."
+    },
+    {
+        "savol": "Tasvirlar tiplarini ko‘rsating?",
+        "javob": "Hamma javoblar to‘g‘ri"
+    },
+    {
+        "savol": "Ob’yektlar harakatini tanish (Object Detection) bu nima?",
+        "javob": "Raqamli tasvirlar va videosahnalarda aniq sinfga tegishli semantik ob’ektlarni (masalan, odamlar, avtomobillar, vagonlar, kombaynlar va h.k.) tanishga imkon beruvchi kompyuter texnologiyadir."
+    },
+    {
+        "savol": "Ob’yektlarni tanish (Object Recognition) bu nima?",
+        "javob": "Ob’yektning fizik xususiyatlarni idrok qilish (masalan, shakl, rang, tuzilish) va semantik belgilar bilan ifodalovchi usul."
+    },
+    {
+        "savol": "Kompyuter ko‘rishi nima ?",
+        "javob": "Ob’yektlarni topish, kuzatish va sinflashtirishga imkon beruvchi kompyuterlashtirilgan vositalar yaratish nazariyasi va texnologiyasi tushuniladi."
+    },
+    {
+        "savol": "Biologik ko‘rish nima?",
+        "javob": "Inson va turli jonivorlarning ob’ektiv borliqni ko‘rish asosida idrok qilishlari fiziologik nuqtai nazardan o‘rganiladi."
+    },
+    {
+        "savol": "Mashina ko‘rishi  nima ?",
+        "javob": "Ishlab chiqarishda qo‘llaniladi, masalan avtonom robotlar , vizual tekshirish va o‘lchash tizimlari. Bunda real vaqtda robotlar va ma’lumotlarga ishlov berish va boshqaruv tasvirlar datchiklaridan olingan tezkor ma’lumotlar asosida amalga oshiriladi."
+    },
+    {
+        "savol": "Tasvir gistogrammasini ko‘rsatish operatorini ko‘rsating.",
+        "javob": "imhist."
+    },
+    {
+        "savol": "Gistogrammada dims tushunchasi nimani bildiradi?",
+        "javob": "Har bir ajratilgan dims bo‘yicha oraliqlar soni."
+    },
+    {
+        "savol": "Gistogrammada bins tushunchasi nimani bildiradi?",
+        "javob": "Har bir ajratilgan dims bo‘yicha oraliqlar soni."
+    },
+    {
+        "savol": "Gistogrammada range tushunchasi nimani bildiradi?",
+        "javob": "Piksel qiymatlari uchun chegaralar."
+    },
+    {
+        "savol": "Tasvir formatlari to‘liq ko‘rsatilgan javobni ko‘rsating.",
+        "javob": "Bmp, Tif, Jpg."
+    },
+    {
+        "savol": "Tasvir yorqinligi nima?",
+        "javob": "Tasvirning har bir piksel qiymatini bir xil qiymatga o‘zgartirishdir."
+    },
+    {
+        "savol": "OpenCV kutubxonasida tasvirga oid tipni ko‘rsating.",
+        "javob": "IplImage."
+    },
+    {
+        "savol": "OpenCV kutubxonasida gistogrammaga oid tipni ko‘rsating.",
+        "javob": "CvHistogram."
+    },
+    {
+        "savol": "OpenCV kutubxonasida ikki o‘lchovli massivga oid tipni ko‘rsating..",
+        "javob": "CvMat."
+    },
+    {
+        "savol": "OpenCV kutubxonasida dinamik strukturalarga oid tipni ko‘rsating.",
+        "javob": "CvSeq, CvSet, CvGraph."
+    },
+    {
+        "savol": "OpenCV kutubxonasida fazoviy o‘lchamlarga oid tipni ko‘rsating.",
+        "javob": "CvMoments."
+    },
+    {
+        "savol": "Doimiy o‘rtachalik va o‘zgaruvchan dispersiyaga ega Gauss shovqinini ko‘rsating.",
+        "javob": "Gaussian."
+    },
+    {
+        "savol": "Tasvirga to’g’ri berilgan tarifni belgilang?",
+        "javob": "Ikki o'lchovli f (x, y) signaldan tashkil topgan matematik funksiya"
+    },
+    {
+        "savol": "Multiplikativ shovqin tipini ko‘rsating.",
+        "javob": "Speckle."
+    },
+    {
+        "savol": "Puasson shovqinini ko‘rsating.",
+        "javob": "Poisson."
+    },
+    {
+        "savol": "O‘rtachalik va o‘zgaruvchan dispersiyaga ega Gauss shovqinini ko‘rsating.",
+        "javob": "Gaussian."
+    },
+    {
+        "savol": "MATLAB muhitida tasvirlarni Viner filtrlash uchun qanday funksiyadan foydalaniladi?",
+        "javob": "Deconvwnr."
+    },
+    {
+        "savol": "Shovqin qo‘shilgan tasvir fazoviy qismda qanday ko‘rinishda bo‘ladi?",
+        "javob": "g(x,y)= h(x,y)* f(x,y)+η(x, y)."
+    },
+    {
+        "savol": "Nutqni avtomatik tanish masalalarida ko’pgina hollarda qaysi parametrlar xarakterlanadi?",
+        "javob": "nutqni uzatish kanalining xususiyati, lug’athajmi, nutq atrofidagi xalaqitlar darajasi, nutqning o’zgaruvchanligi, kiruvchi nutqning tipini."
+    },
+    {
+        "savol": "Lug’atdagi tanib olinadigan so’zlar hajmidan kelib chiqgan holda ularning nechta sinflari mavjud?",
         "javob": "3"
     },
     {
-        "savol": "Statistik tadqiqotning qaysi bosqichida materiallar to‘plami (statistik kuzatish) - o‘rganilayotgan hodisaning alohida holatlarini va ularni tavsiflovchi hisobga olish belgilarini ro‘yxatga olish blankalarida qayd etiladi?",
+        "savol": "Zamonaviy nutqni avtomatik tanish tizimlari bajarishi shart bo’lgan eng muhim talablarga quyidagilarni qaysi birini kiritish mumkin?",
+        "javob": "uzluksiz ravishda nutqni kiritish, diktorga bog’liq bo’lmaslik, ko’p sondagi so’zlarni tanish qobilyati va tizimning yuqori tezligi"
+    },
+    {
+        "savol": "Belgilar sifatida quyidagilar qo’llaniladi: …………………………..",
+        "javob": "tizim tomonidan tanib olingan nutq turi; tizimning diktorlarning tanib olingan ovozlariga bog’liqligi; etalonlarning detalizasiya darajasi; tanib olinadigan so’zlar soni"
+    },
+    {
+        "savol": "Tizimning diktorlarning tanib olingan ovozlariga bog’liqlik darajasiga ko’ra necha turga bo’linadi?",
         "javob": "2"
     },
     {
-        "savol": "Statistik tadqiqotning qaysi bosqichida tadqiqot rejasi va dasturini tuzish, tadqiqot maqsadi va vazifalarini aniqlash, tadqiqot rejasi va dasturini tuzish, statistik materiallarni umumlashtirish dasturi ishlab chiqish va tashkiliy masalalarni hal qilinadi?",
-        "javob": "1"
+        "savol": "Etalonlarning detalizasiya darajasiga ko’ra necha turdagi tizimga bo’linadi?",
+        "javob": "etalon sifatida to’liq so’zni oladigan va so’z qismini (monofonlar, trifonlar, bo’g’inlar) oladigan tizimlarga ajraladi"
     },
     {
-        "savol": "Taqqoslangan guruhlarda ¬belgi uchun mos keladigan qiymatlarning yo‘qligi (barcha raqamlar boshqacha) yoki bunday mosliklarning soni juda kam bo’lganda qaysi test samarali hisoblanadi?",
-        "javob": "Mann-Whitney U-testi"
-    },
-    {
-        "savol": "Qaysi usul ikkita variatsion qator o‘rtasidagi o‘zaro bog’liq qiymatlar maydoni yetarlicha kichik yoki yo‘qligini aniqlashga asoslangan",
-        "javob": "Mann-Whitney U-testi"
-    },
-    {
-        "savol": "Mann-Whitney U-testining Talabaning t-testidan farqli tomoni qanday?",
-        "javob": "taqqoslanayotgan populyatsiyalarning normal taqsimlanishini talab qilmaydi"
-    },
-    {
-        "savol": "…………..testi - bu har bir toifaga kiruvchi ¬namunaning ¬haqiqiy (¬tadqiqot natijasida aniqlangan) natijalari yoki sifat xususiyatlari o‘rtasidagi farqlarning ahamiyatini -baholaydigan ¬parametrik bo‘lmagan usul",
-        "javob": "Pearsonning x-kvadrat"
-    },
-    {
-        "savol": "Nisbatlar shkalasi uchun ……….. dan foydalanish tavsiya etiladi",
-        "javob": "Kramer-Velch testi"
-    },
-    {
-        "savol": "Nisbatlar shkalasi uchun ……….. dan foydalanish tavsiya etiladi",
-        "javob": "Kramer-Velch testi"
-    },
-    {
-        "savol": "Agar taqqoslangan namunalarda bir-biridan farq qiladigan qiymatlar soni ¬katta bo‘lsa (o‘ndan ortiq), u ¬holda …….dan foydalanish mumkin",
-        "javob": "Mann-Whitney U-testi"
-    },
-    {
-        "savol": "Tartibli shkala uchun ……. testlaridan foydalanish tavsiya ¬etiladi",
-        "javob": "Wilcoxon testi va Mann-Whitney U-testi"
-    },
-    {
-        "savol": "Nominal shkalasi uchun ……….. dan foydalanish tavsiya etiladi",
-        "javob": "Pearsonning x-kvadrat"
-    },
-    {
-        "savol": "Dichotomous shkalasi uchun ……….. dan foydalanish tavsiya etiladi",
-        "javob": "F-testi"
-    },
-    {
-        "savol": "Tibbiyot sohasida model qurish jarayoni nechta bosqichda amalga oshiriladi?",
+        "savol": "Tanib olinadigan so’zlar soni bo’yicha (yoki lug’at hajmi) ularni nechta kategoriyaga ajratish mumkin?",
         "javob": "4"
     },
     {
-        "savol": "Modellashtirishning qaysi bosqichi obyekt haqidagi ma’lum bilimlarning mavjudligini nazarda tutadi?",
-        "javob": "1"
+        "savol": "Grammatika turiga ko’ra nutqni tanib olish tizimlarini nechta sinfga ajratish mumkin?",
+        "javob": "buyruqli, grammatikasi o’rnatilgan va diktovka tizimlarga"
     },
     {
-        "savol": "Modellashtirishning qaysi bosqichining yakuniy natijasi model haqidagi boy bilimlar to’plami hisoblanadi?",
-        "javob": "2"
-    },
-    {
-        "savol": "Modellashtirishning qaysi bosqichida bilimlarni modeldan asl nusxaga o‘tkazish amalga oshiriladi?",
-        "javob": "3"
-    },
-    {
-        "savol": "Modellashtirishning qaysi bosqichida modellar yordamida olingan bilimlarni -amaliy ¬tekshirish va ulardan ¬obyektning umumiy nazariyasini qurish, uni o‘zgartirish yoki boshqarish uchun foydalanish amalga oshiriladi?",
-        "javob": "4"
-    },
-    {
-        "savol": "Modellashtirishning to’ttinchi bosqichida……………amalga oshiriladi?",
-        "javob": "modellar yordamida olingan bilimlarni ¬amaliy ¬tekshirish va ulardan ¬obyektning umumiy nazariyasini qurish, uni o‘zgartirish yoki boshqarish uchun foydalanish"
-    },
-    {
-        "savol": "Modellashtirishning uchinchi bosqichida……………amalga oshiriladi?",
-        "javob": "bilimlarni modeldan asl nusxaga o‘tkazish"
-    },
-    {
-        "savol": "Biotizimning matematik modelini qurish jarayoni nechta bosqichlarga bo‘linadi?",
-        "javob": "8"
-    },
-    {
-        "savol": "Biotizimning matematik modelini qurishning o’rganilayotgan obyektni tahlil qilish bosqichida nima amalga oshiriladi?",
-        "javob": "Obyektdagi sabab-oqibat ¬munosabatlarini aniqlash"
-    },
-    {
-        "savol": "Biotizimning matematik modelini qurishning tajriba bosqichida nima amalga oshiriladi?",
-        "javob": "Bog’liq o‘zgaruvchilarni aniqlash uchun tajribalarni o‘rnatish va o‘tkazish, kirish va chiqishlarning dinamik egri chiziqlarini qayd etish"
-    },
-    {
-        "savol": "Biotizimning matematik modelini qurishning eksperemental ma’lumotlarni statistic qayta ishlash bosqichida nima amalga oshiriladi?",
-        "javob": "Chiqarish qiymati, dispersiya ¬va ¬standart og’ishning matematik kutilishini aniqlash"
-    },
-    {
-        "savol": "Biotizimning matematik modelini qurishning kirish ¬va chiqish o‘zgaruvchilari tizimining murakkablik darajasini va tashkil etilishini aniqlash bosqichida nima amalga oshiriladi?",
-        "javob": "Obyektning kirish va chiqishlari bo‘lishi mumkin bo‘lgan holatlar sonini hisoblash"
-    },
-    {
-        "savol": "Biotizimning matematik modelini qurishning umumiy sintez algoritmi nechta qisimga ajratiladi?",
-        "javob": "3"
-    },
-    {
-        "savol": "Biotizimning matematik modelini qurishning umumiy sintez algoritmi uchinchi qismida nima amalga oshiriladi?",
-        "javob": "Adekvat matematik modelni qurish"
-    },
-    {
-        "savol": "Dispersiyani tahlil qilish konsepsiyasiga qachon asos solingan?",
-        "javob": "1920-yil"
-    },
-    {
-        "savol": "Dispersiyani tahlil qilish konsepsiyasi birinchi kim tomonidan taklif etilgan?",
-        "javob": "Fisher"
-    },
-    {
-        "savol": "dispersiyani tahlil qilishning maqsadi ¬bu - ……….",
-        "javob": "o‘rtacha qiymatlar orasidagi farqning statistik ahamiyatini tekshirishdir"
-    },
-    {
-        "savol": "……….. bu - matematik statistikada ¬ikkita tasodifiy o‘zgaruvchilar orasidagi bog’lanishning mustahkamligining umumiy qabul qilingan tavsifidir",
-        "javob": "Korrelyatsiya koeffitsientlari"
-    },
-    {
-        "savol": "O’zaro ajralib turadiga necha xil turdagi korrelyatsiya koeffitsientlari mavjud",
+        "savol": "Nutq signallarini avtomatik tanish algoritmlari ketma-ketligi nechta bosqichdan iborat?",
         "javob": "6"
     },
     {
-        "savol": "Pearson mahsulot-moment korrelyatsiyasi bu - ………….",
-        "javob": "uzluksiz o‘zgaruvchilar uchun ishlatiladigan korrelyatsiya koeffitsienti"
+        "savol": "Odatda belgilar tizimiga quyidagi qaysi talablar quyiladi?",
+        "javob": "informativlik, hajmni minimallashtirish, diktorga bog’liq bo’lmaslik, bir xillik"
     },
     {
-        "savol": "Spearmens rank-tartib korrelyatsiyasi bu - ………….",
-        "javob": "tartib (darajali) shkalalarda o‘lchanadigan o‘zgaruvchilar uchun korrelyatsiya koeffitsienti"
+        "savol": "Amaliyotda mikrofondan olingan nutq signali necha kGs diskretlash chastotasida raqamlashtiriladi?",
+        "javob": "8-22 kGs"
     },
     {
-        "savol": "nuqta-biserial korrelyatsiyasi bu - ………….",
-        "javob": "o‘zgaruvchilar nisbatini tahlil qilishda qo‘llaniladigan korrelyatsiya koeffitsienti"
+        "savol": "Svyortkali neyron tarmoqlari (CNN) – bu ………………………",
+        "javob": "yuqori aniqlikdagi tasvirlarda katta hajmdagi ma'lumotlarni samarali ishlash, moslashtirish va tushunish uchun mo'ljallangan arxitektura"
     },
     {
-        "savol": "………..bu - obyektlarni bitta parametr bo‘yicha emas, balki butun funktsiyalar to‘plami bo‘yicha bo‘lish imkonini beradi",
-        "javob": "Klaser tahlil afzalligi"
+        "savol": "CNN neyron tarmoq modellari quyidagilardan qaysi biri qatlam turlarini o’z ichiga oladi?",
+        "javob": "Svyortka qatlami (Convolutional (CONV)), Faollashtirishlash (ACT yoki RELU), Pooling qatlami (POOL), To’liq bog’lanishli qatlam (Fully-connected (FC)), Batch normalization qatlami (BN), Dropout qatlami (DO)"
     },
     {
-        "savol": "……….. bu - o‘rganilayotgan obyektlar va xususiyatlar to‘plamini bir hil guruhlar yoki ¬klasterlarga bo‘lishdir",
-        "javob": "Klaser tahlil maqsadi"
+        "savol": "CNN ni quyidagilardan qaysi biri tekstli diagramma ko’rinishida ifodalash mumkin?",
+        "javob": "INPUT(IMAGE) => CONV => RELU => FC => SOFTMAX"
     },
     {
-        "savol": "Klasterlarning tarkibi va soni ¬tanlangan bo‘linish mezonlariga bog’liq bu - ……",
-        "javob": "Klaser tahlil kamchiligi"
+        "savol": "Svyortka qatlami – bu………………………………",
+        "javob": "CNN tarmoqning asosiy bloki sanaladi"
     },
     {
-        "savol": "Klaster tahlilning qaysi usulida Har bir obyekt bir nuqtali klaster sifatida qaraladi",
-        "javob": "Maksimal mahalliy masofa usuli"
+        "savol": "Tasvirni tanib olish uchun neyron tarmoqni yaratishda quyidagilarni qaysilarini o'z ichiga oladi?",
+        "javob": "ma'lumotlarni to'plash va tayyorlash, topologiyani tanlash, xususiyatlari tanlash, o’qitish  parametrlarini tanlash, o’qitish, o’qitish sifatini tekshirish, tuzatish, verballashtirish"
     },
     {
-        "savol": "………… yordamida klasterlash protsedurasini grafik yoki geometrik tarzda tasvirlash mumkin",
-        "javob": "Dendogramma"
+        "savol": "Turli sohalarda tasvirni tanib olishga qo'llash usullarini keltiring.",
+        "javob": "E - tijorat sanoati, avtomobil sanoati, ishlab   chiqarish, o’quv jarayonida"
     },
     {
-        "savol": "P.V.Terentev tomonidan qanday klasterlash algoritmi taklif etilgan",
-        "javob": "korrelyatsiya ¬pleiades"
+        "savol": "Tasvirni tanib olish – bu…………………………………",
+        "javob": "tavsiflovchi teglar bilan tasvirni belgilash, tasvirlardagi tarkibni qidirish va robotlarni boshqarish, avtonom avtomashinalar va haydovchilarga yordam berish tizimlari kabi vazifalarni bajarish uchun ishlatiladi"
     },
     {
-        "savol": "B. Efron tomonidan klaster tahlili natijalarining ¬barqarorligini tekshirish mumkin bo‘lgan qanday usul taklif etilgan?",
-        "javob": "Jacknife"
+        "savol": "Tasvirni tanib olish uchun neyron tarmoqni yaratish bosqichi nechta?",
+        "javob": "6"
     },
     {
-        "savol": "………….bu - ¬to‘g’ridan-to‘g’ri kuzatishdan yashiringan ma'lum miqdordagi omillarni ¬aniqlash uchun statistik jihatdan bog’liq xususiyatlarni ¬o‘rganishda qo‘llaniladigan ko‘p o‘lchovli matematik statistika usulidir",
-        "javob": "Faktorli tahlil"
+        "savol": "Bizning ko'zlarimiz ikkita kamera (ikki ko'z) yordamida shunday ishlaydi, bu qanday ko'rish deb ataladi?",
+        "javob": "Stereo    ko’rishi"
     },
     {
-        "savol": "Faktor so’zi qaysi tildan olingan?",
-        "javob": "barcha javoblar to’gri"
+        "savol": "Kameraning markaziy chizig'I va tasvir tekisligining kesishishi bu….. ?",
+        "javob": "Qutub"
     },
     {
-        "savol": "Faktor tahlilining asosiy maqsadi quyidagilardan iborat:",
-        "javob": "O‘zgaruvchilar sonini kamaytirish va tasniflash"
+        "savol": "Barcha qutb chiziqlari qanday nuqtada no'tishi kerak ?",
+        "javob": "Epiliniya"
     },
     {
-        "savol": "Faktor tahlilining asosiy vazifasi quyidagilardan iborat:",
-        "javob": "Parametrlar to‘plamini ¬kamroq sonli omillar bilan almashtirishdir"
+        "savol": "Nuqtalar o’rniga mos so’zni qo’ying: Parallel qarash usuli to‘liq rangli stereo tasvirni hechqanday uskunasiz ko‘rish imkonini beradi, ……….  ko‘zlarni tasvir tekisligiga yaqinlashtirish orqali erishiladi.",
+        "javob": "Stereoeffektga"
     },
     {
-        "savol": "Faktorli tahlilning necha xil turi mavjud?",
-        "javob": "5"
+        "savol": "Kross-ko'zus ulining kamchiligi ko’rsatilgan qatorni ko’rsating?",
+        "javob": "Ekran va kuzatuvchi o'rtasida virtual tasvir paydo bo'ladi, bu tasvirlangan ob'ektning hajmini cheklaydi yoki uni \"qo'g'irchoq nusxasi\" ga aylantiradi."
     },
     {
-        "savol": "Faktorli tahlil turlari to’gri keltirilgan qatorni aniqlang?",
-        "javob": "barcha javoblar to’gri"
+        "savol": "Stereo ko'z oynaklarda ekrandagi rasm avval qaysi ko'zga proyeksiyalanadi?",
+        "javob": "a va b javoblar to’g’ri"
     },
     {
-        "savol": "……….. bu- funktsional ko‘rsatkichdan farqli o‘laroq, to‘liq bo‘lmagan, ehtimollik (korrelyatsiya) bo‘lgan samaradorlik ko‘rsatkichi bilan aloqasi omillarni o‘rganish usulidir",
-        "javob": "Stoxastik tahlil"
+        "savol": "Ikkita okulyar bo'lgan optik qurilma – bu ?",
+        "javob": "Stereoskop"
     },
     {
-        "savol": "Faktor tahlining guruhlash usuli asoschisi kim?",
-        "javob": "L. Gutman"
+        "savol": "Stereo display nima ?",
+        "javob": "Optik asbob, uning yordamida ikkita planar tasvir shunday birlashtiriladiki, kuzatuvchida relyef obyekti tasurotlari paydo bo‘ladi."
     },
     {
-        "savol": "Faktor tahlining asosiy omil usuli asoschisi kim?",
-        "javob": "G. Tomson"
+        "savol": "Samsung 3D televizorlari birinchi qaerda ishlab chiqarila boshladi?",
+        "javob": "2010 yil ,Xitoyda"
     },
     {
-        "savol": "Faktor tahlining maksimal ehtimollik usuli asoschisi kim?",
-        "javob": "D. Louli"
+        "savol": "Johannes itten rang nazariyasida qaysi ranglardan foydalaniladi?",
+        "javob": "Sariq, ko’k, qizil."
     },
     {
-        "savol": "Faktor tahlining minimal qoldiqlar usuli asoschisi kim?",
-        "javob": "G. Xarman"
+        "savol": "Jamiyatda eng ko`p tarqalgan grafika bu…?",
+        "javob": "Rastorli"
     },
     {
-        "savol": "Scree testi ¬birinchi marta ……. tomonidan taklif qilingan grafik usuldir",
-        "javob": "Cattel"
+        "savol": "Tasvirni oddiy  grafik shakllar  yordamida  yaratish  grafikaning qaysi turiga kiradi?",
+        "javob": "vektorli grafika"
     },
     {
-        "savol": "Ta'riflovchi statistika ¬ikki turdagi ma'lumotlar bilan shug’ullanadi bular:",
-        "javob": "miqdoriy va sifat"
+        "savol": "Iltifoq sxemasi-rang doirasining …..tomonlarida joylashgan ranglar olinadi.",
+        "javob": "qarama-qarshi"
     },
     {
-        "savol": "……… bu - katta ma'lumotlar massivining kichik qismini o‘rganish orqali uning xususiyatlarini olishga urinishgacha bo‘lgan muammolarni hal qilish usullarining rasmiylashtirilgan tizimi",
-        "javob": "Statistik xulosalar nazariyasi"
+        "savol": "Klassik Triad -rang doirasining …..tomonlarida joylashgan ranglar olinadi.",
+        "javob": "lekin qarama-qarshi rang o'rniga uning qo'shnilari"
     },
     {
-        "savol": "………….. bu - o‘rganilayotgan obyekt yoki jarayonning holatini har qanday aniqlik bilan tasvirlash mumkin degan taxminga asoslanadi",
-        "javob": "Deterministik model"
-    },
-    {
-        "savol": "Deterministik model bu - …..",
-        "javob": "O‘rganilayotgan obyekt yoki jarayonning holatini har qanday aniqlik bilan tasvirlash mumkin degan taxminga asoslanadi"
-    },
-    {
-        "savol": "Extimollik modeli bu - …..",
-        "javob": "O‘rganilayotgan obyekt yoki jarayonning holatini aniq tasvirlab bo‘lmaydi degan taxminga ¬asoslanadi"
-    },
-    {
-        "savol": "………….. bu - o‘rganilayotgan obyekt yoki jarayonning holatini aniq tasvirlab bo‘lmaydi degan taxminga ¬asoslanadi",
-        "javob": "Ehtimmollik modeli"
-    },
-    {
-        "savol": "Deterministik biotizimlarni tavsiflash usullarining nechta ¬matematik usullari mavjud",
-        "javob": "3"
-    },
-    {
-        "savol": "Ehtimoliy biotizimlarni tavsiflash qanday matematik usullar yordamida amalga oshirilishi mumkin: 1. ehtimollar nazariyasi usullari, 2. axborot nazariyasi usullari, 3. ¬avtomatlar nazariyasi va naqshlarni aniqlash usullari, 4. optimal usullar, 5. differensial va integral tenglamalar, 6. algebraik",
-        "javob": "1,2,3"
-    },
-    {
-        "savol": "Deterministik biotizimlarni tavsiflash qanday matematik usullar yordamida amalga oshirilishi mumkin: 1. ehtimollar nazariyasi usullari, 2. algebraik, 3. ¬avtomatlar nazariyasi va naqshlarni aniqlash usullari, 4. optimal usullar, 5. differensial va integral tenglamalar, 6. axborot nazariyasi usullari",
-        "javob": "2,4,5"
-    },
-    {
-        "savol": "Noaniq yondoshuvlarni birinchi bo’lib fanga kim tomonidan taklif etilgan",
-        "javob": "L.Zade"
-    },
-    {
-        "savol": "Mann-Whitney U testi qanday test?",
-        "javob": "parametrik bo'lmagan statistik test"
-    },
-    {
-        "savol": "Ushbu mezonning empirik qiymati x va y namunalarining N va M o'lchamlari, x va y tanlama o'rtachalari va taqqoslangan namunalarning s2(x) va s2(y) tanlama dispersiyalari haqidagi ma'lumotlar asosida hisoblanadi",
-        "javob": "Kramer-Velch"
-    },
-    {
-        "savol": "𝑥 =(𝑃1- 𝑃2)/(√𝑚1^2+𝑚2^2) bu yerda m1 va m2 nima?",
-        "javob": "arifmetik o'rtachalar orasidagi farq"
-    },
-    {
-        "savol": "IMSL nima?",
-        "javob": "IMSL paketi protseduralar kutubxonasi"
-    },
-    {
-        "savol": "StatView-da ma'lumotlar va tahlil qilish uchun nechta asosiy hujjat turi mavjud?",
-        "javob": "2"
-    },
-    {
-        "savol": "StatView ma'lumotlarni kiritish va manipulyatsiya qilish uchun nimadan foydalaniladi?",
-        "javob": "electron jadvalga o'xshash interfeysdan"
-    },
-    {
-        "savol": "STADIA nima?",
-        "javob": "universal rus statistik to'plami"
-    },
-    {
-        "savol": "Biotibbiy ma'lumotlarni qayta ishlash uchun odatda Statistica kabi ma'lumotlarni qayta ishlash uchun universal dasturiy paketlardan foydalaniladi ulardan biri ?",
-        "javob": "STADIA"
-    },
-    {
-        "savol": "Biotibbiy ma'lumotlarni qayta ishlash uchun odatda Statistica kabima'lumotlarni qayta ishlash uchun universal dasturiy paketlardan foydalaniladi ?",
-        "javob": "StatView, IMSL, SYSTAT"
-    },
-    {
-        "savol": "EMG signallarini qayta ishlash uchun qanday tahlil ishlatiladi?",
-        "javob": "spektral"
-    },
-    {
-        "savol": "Nechanchi yilda yilda rus fiziologi Vvedenskiy o'zining mushaklarining harakatni potentsialini telefon orqali tinglash tajribasini namoyish qildi?",
-        "javob": "1881"
-    },
-    {
-        "savol": "… bu mushaklarning qisqarishini elektr signaliga aylantiradigan usuldir",
-        "javob": "Elektromiyografiya"
-    },
-    {
-        "savol": "Birinchi marta elektromiyografiya usulini odam. Tadqiqot yordamida amalga oshiriladi nechanchi yilda?",
-        "javob": "1912"
-    },
-    {
-        "savol": "Elektromiografiya mushaklar elektr faolligini qayd qiluvchi qanday usullar mavjud?",
-        "javob": "local global."
-    },
-    {
-        "savol": "EEG nima?",
-        "javob": "bosh miyada hosil bo‘lgan biopotensiallarni yozib olish"
-    },
-    {
-        "savol": "EMG nima?",
-        "javob": "mushaklarda hosil bo‘lgan biopotensiallarni yozib olish"
-    },
-    {
-        "savol": "EKG nima?",
-        "javob": "yurakda hosil bo‘lgan biopotensiallarni yozib olish"
-    },
-    {
-        "savol": "ERG nima?",
-        "javob": "ko‘z to‘r pardasida hosil bo‘lgan biopotensiallarni yozib olishlar"
-    },
-    {
-        "savol": "…bu qo‘zg‘aluvchan hujayralardagi biotoklarni qayd qilish hisoblanadi",
-        "javob": "Biopotensiallarni yozib olish"
-    },
-    {
-        "savol": "GSR nima?",
-        "javob": "Galvanik teri reaktsiyasi"
-    },
-    {
-        "savol": "MMG nima?",
-        "javob": "Magnetoensefalogramma"
-    },
-    {
-        "savol": "EOG nima?",
-        "javob": "Elektrookulografiya"
-    },
-    {
-        "savol": "NCS nima?",
-        "javob": "bu nerv orqali elektr impulsining o'tish miqdori va tezligini o'lchash"
-    },
-    {
-        "savol": "EEGLAB nima?",
-        "javob": "MATLAB uchun paket"
-    },
-    {
-        "savol": "OpenViBE nima?",
-        "javob": "neyrokompyuter interfeyslarini ishlab chiqish, sinash va ulardan foydalanish uchun yaratilgan bepul ochiq manba dasturiy ta’minot"
-    },
-    {
-        "savol": "Variatsiya koeffitsienti?",
-        "javob": "bu populyatsiyaning alohida birliklarida xususiyat qiymatining farqi"
-    },
-    {
-        "savol": "Palata usuli qanday xolda ishlatiladi?",
-        "javob": "maqsadli funktsiya sifatida guruh ichidagi kvadratik og’ishlar yig’indisi ishlatiladi"
-    },
-    {
-        "savol": "Masofa yoki o‘xshashlik matritsasini ifodalash uchun qaysi usuldan foydalaniladi?",
-        "javob": "Dendogrammalar"
-    },
-    {
-        "savol": "Har bir obyekt bir nuqtali klaster sifatida qaraladi? Qaysi uslubda?",
-        "javob": "Maksimal mahalliy masofa usuli"
-    },
-    {
-        "savol": "Centroid usuliga berilgan to’g’ri tarifni belgilang?",
-        "javob": "Ikki klaster orasidagi masofa ushbu klasterlarning markazlari (o‘rtachalari) orasidagi Evklid masofasi sifatida aniqlanadi"
-    },
-    {
-        "savol": "Klaster tahlili birinchi marta qaysi sohada qo’llanilgan?",
-        "javob": "sotsiologiyada"
-    },
-    {
-        "savol": "Korrelyatsiya koeffitsientlari matematik statistikada ikkita tasodifiy o‘zgaruvchilar orasidagi bog’lanishning mustahkamligining umumiy qabul qilingan tavsifidir. Qaysi baholash turiga berilagn tarif?",
-        "javob": "Korrelyatsiyalarni baholash"
-    },
-    {
-        "savol": "Medel qurish jarayoni nechta bosqichda amalga oshiriladi?",
-        "javob": "4"
-    },
-    {
-        "savol": "Model qurishni 1-bosqichiga berilgan tarifni toping?",
-        "javob": "asl obyekt haqida ma'lum bilimlarning mavjudligininazarda tutadi"
-    },
-    {
-        "savol": "tananing holatini qanday parametr bilan aniqlash mumkin bular…?",
-        "javob": "tizimning ishlash darajasi, tartibga solish mexanizmlarining kuchlanish darajasi, funksional zaxira  tizimning ishlash darajasi, tartibga solish mexanizmlarining kuchlanish darajasi, umumiy zaxira"
-    },
-    {
-        "savol": "Prognoz obyekti…?",
-        "javob": "sog’lom organizmning turli xil ekologik ta’sirlarga moslashish jarayonidagi holati"
-    },
-    {
-        "savol": "replikatsiya nima?",
-        "javob": "ko‘payish qobiliyat  tashqi muhit bilan metabolizm va energiyaning mavjudligi"
-    },
-    {
-        "savol": "metabolizm nima?",
-        "javob": "tashqi muhit bilan metabolizm va energiyaning mavjudlig"
-    },
-    {
-        "savol": "Bioinformatika  qanday fan?",
-        "javob": "biologik ko‘rsatkichlarni ifodalashda foydalaniladigan usullar va dasturlarni ishlab chiquvchi fan"
-    },
-    {
-        "savol": "… yilda niderland nazariyotchi biologi Polina Hogeveg va Ben Hesper biotik tizimdagi informatsion jarayonlarni tadqiq etish davomida “bioinformatika” degan terminni qo‘llagan?",
-        "javob": "1970"
-    },
-    {
-        "savol": "Molekulyar biologik tadqiqotlar natijalarini saqlaydigan birlamchi ma’lumotlar bazalari keltirilga qatorni toping?",
-        "javob": "Genbank, EMBL, DDBJ, SWISS-PROT"
-    },
-    {
-        "savol": "Kompozit ma’lumotlar bazalari keltirilga qatorni toping?",
-        "javob": "NRDB, OWL, GO"
-    },
-    {
-        "savol": "Ma’lumotlar bazasini to‘ldirish mexanizmiga ko‘ra nechta qismga bo‘lish mumkin?",
-        "javob": "3"
-    },
-    {
-        "savol": "SWISS-PROT qanday tipdagi malumotlar bazasi ?",
-        "javob": "nazorat qilinadigan ma’lumotlar bazalari"
-    },
-    {
-        "savol": "Genblank ma’lumotlar bazasida berilgan obyektning boshqa ma’lumotlar bazalaridagi raqamlari (identifikatorlari) uchun qanday tavsiflar xarakterli;",
-        "javob": "ACCESSION"
-    },
-    {
-        "savol": "Genblank ma’lumotlar bazasida manba organizmni to‘liq taksonomik aniqlash uchun qanday tavsiflar xarakterli;",
-        "javob": "ORGANIZM"
-    },
-    {
-        "savol": "PDB , SCOP va CATH ma'lumotlar bazalari qanday fayllari bilan bog'liq ma'lumotlar bazalari.",
-        "javob": "Protein tuzilishi"
-    },
-    {
-        "savol": "Statviwe paketi asosan qanday turdagi ma’lumotlar bilan ishlaydi.",
-        "javob": "electron jadvallar va grafik"
-    },
-    {
-        "savol": "IMSL paketi kutubxonasida asosan qaysi dasturlash tillaridan foydalanilgan",
-        "javob": "Fortran 77 va C"
-    },
-    {
-        "savol": "IMSL asosan qanday bo'limdan iborat?",
-        "javob": "Matematik / Kutubxona va Stat /  Kutubxona"
+        "savol": "Klassik Triad -rang doirasining …..tomonlarida joylashgan ranglar olinadi.",
+        "javob": "lekin qarama-qarshi rang o'rniga uning qo'shnilari"
     }
 ]
